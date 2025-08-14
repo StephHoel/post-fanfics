@@ -4,22 +4,9 @@
 # Versão: 2
 # -------------------------------------
 
-$scriptPath = $MyInvocation.MyCommand.Path
-
 Write-Host "=== Iniciando atualizacao automatica de drivers... ===" -ForegroundColor Cyan
 
-# 0 - Detectar bloqueio por arquivo vindo da internet e tentar desbloquear
-if (Get-Item $scriptPath -Stream "Zone.Identifier" -ErrorAction SilentlyContinue) {
-  Write-Host "Arquivo bloqueado pela marcacao de origem (Internet). Tentando desbloquear..." -ForegroundColor Yellow
-  try {
-    Unblock-File -Path $scriptPath
-    Write-Host "Arquivo desbloqueado com sucesso." -ForegroundColor Green
-  } catch {
-    Write-Host "Falha ao desbloquear o arquivo. Rode manualmente: Unblock-File -Path '$scriptPath'" -ForegroundColor Red
-  }
-}
-
-# 0.1 - Garantir que a política de execução permite rodar scripts
+# 0 - Garantir que a política de execução permite rodar scripts
 $currentPolicy = Get-ExecutionPolicy -Scope Process
 if ($currentPolicy -eq "Restricted" -or $currentPolicy -eq "AllSigned") {
   Write-Host "Politica de execucao restritiva detectada. Ajustando para Bypass nesta sessao..." -ForegroundColor Yellow
@@ -51,12 +38,14 @@ if ($driversWU) {
 
     Write-Host "`nInstalando drivers..." -ForegroundColor Yellow
     Install-WindowsUpdate -MicrosoftUpdate -Category Drivers -AcceptAll -AutoReboot
+    $winUpdated = true
 } else {
     Write-Host "Nenhum driver encontrado no Windows Update." -ForegroundColor DarkGray
+    $winUpdated = false
 }
 
 # 3 - Mostrar últimas versões conhecidas de fabricantes
-Write-Host "`nTente baixar pelas ultimas versoes conhecidas dos fabricantes:" -ForegroundColor Cyan
+Write-Host "`nEh possivel atualizar também pelo site dos fabricantes:" -ForegroundColor Cyan
 
 # NVIDIA
 Write-Host "NVIDIA - Verifique via site oficial: https://www.nvidia.com/Download/index.aspx" -ForegroundColor Blue
@@ -68,4 +57,7 @@ Write-Host "Intel - Verifique via Assistente de Drivers: https://downloadcenter.
 Write-Host "AMD - Verifique via site oficial: https://www.amd.com/en/support" -ForegroundColor Blue
 
 Write-Host "`n=== Processo concluido ===" -ForegroundColor Cyan
-Write-Host "OBS: Drivers instalados via Windows Update ja foram aplicados. Reinicializacao pode ser necessaria." -ForegroundColor Yellow
+
+if($winUpdated){
+  Write-Host "OBS: Drivers instalados via Windows Update ja foram aplicados. Reinicializacao pode ser necessaria.`n" -ForegroundColor Yellow
+}

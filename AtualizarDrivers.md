@@ -36,16 +36,16 @@ Este script é ideal para manter drivers atualizados em computadores Windows de 
 
 1. **Executar o script**
 
-   * Método 1 (recomendado):
-     Clique com o botão direito no arquivo → **Executar com PowerShell (Admin)**.
-   * Método 2 (linha de comando):
-     Abra o PowerShell como Administrador e execute:
+  * Abra o PowerShell como Administrador e navegue até a pasta onde seu arquivo foi baixado.
+  * Execute o comando abaixo para desbloquear seu arquivo e em seguida executá-lo:
+  
+  ```powershell
+    $scriptPath = $MyInvocation.MyCommand.Path
+    Unblock-File -Path '$scriptPath'
+    .\AtualizarDrivers.ps1  
+  ```
 
-     ```powershell
-     .\AtualizarDrivers.ps1
-     ```
-
-> **Observação:** Não é necessário alterar manualmente a política de execução nem desbloquear o arquivo — o script faz isso sozinho.
+> **Observação:** Não é necessário alterar manualmente a política de execução — o script faz isso sozinho.
 
 ---
 
@@ -63,7 +63,7 @@ O script exibirá:
 
 Exemplo de saída quando drivers são encontrados:
 
-```
+```plaintext
 Procurando drivers no Windows Update...
 Foram encontrados os seguintes drivers:
 <lista de drivers>
