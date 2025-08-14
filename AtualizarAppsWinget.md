@@ -42,7 +42,7 @@ Este script é ideal para manter aplicativos atualizados sem precisar verificar 
   ```powershell
     $scriptPath = $MyInvocation.MyCommand.Path
     Unblock-File -Path '$scriptPath'
-    .\AtualizarAppsWinget-Interativo.ps1
+    .\AtualizarAppsWinget.ps1
   ```
 
 2. **Selecionar aplicativos para atualizar**
