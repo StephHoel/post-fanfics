@@ -87,7 +87,7 @@ OBS: Drivers instalados via Windows Update ja foram aplicados. Reinicializacao p
 * O Windows Update só oferece drivers que foram enviados pelos fabricantes à Microsoft — pode haver versões mais novas nos sites oficiais.
 * Se não houver drivers disponíveis, será exibida a mensagem:
 
-  ```
+  ```plaintext
   Nenhum driver encontrado no Windows Update.
   ```
 
