@@ -8,7 +8,7 @@ const { chapter, slug, chapters } = Astro.props;
 const [ficSlug] = slug.split('/');
 const nextChapterNum = chapter + 1;
 const nextChapter = chapters.find(c => c.data.chapter === nextChapterNum);
-const nextUrl = nextChapter ? `/fanfics/${ficSlug}/${nextChapter.slug.split('/')[1]}` : null;
+const nextUrl = nextChapter ? `/post-fanfics/fanfics/${ficSlug}/${nextChapter.slug.split('/')[1]}` : null;
 ---
 
 <div class="mt-10 text-right">

@@ -49,7 +49,7 @@ npm run dev
 
 ## 📄 Estrutura dos capítulos
 
-Cada capítulo é um arquivo Markdown em `src/content/fanfics/<fanfic>/<capitulo>.md` com cabeçalho YAML:
+Cada capítulo é um arquivo Markdown em `src/content/fanfics/<fanfic>/<chapter>.md` com cabeçalho YAML:
 
 ```yaml
 ---

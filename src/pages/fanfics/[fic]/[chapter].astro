@@ -12,7 +12,7 @@ const { Content } = await post.render();
 ---
 
 <BaseLayout title={`${post.data.title} | ${getFicName(post.slug)}`}>
-  <a href={`/fanfics/${post.slug.split('/')[0]}`} class="text-blue-400 hover:underline">← Voltar</a>
+  <a href={`/post-fanfics/fanfics/${post.slug.split('/')[0]}`} class="text-blue-400 hover:underline">← Voltar</a>
 
   <h1 class="text-3xl font-bold mt-6 mb-2 text-white">{post.data.title}</h1>
   <p class="text-sm text-gray-400 mb-8">{post.data.publishDate?.toLocaleDateString() ?? 'Não publicado'} | {countWords(post.body ?? '')} palavras</p>
