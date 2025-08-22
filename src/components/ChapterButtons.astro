@@ -7,10 +7,10 @@ import ChapterButton from './ChapterButton.astro'
 const nextChapter = chapters.find(c => c.data.chapter === chapter + 1);
 
 const isLastChapter = !nextChapter
-const isFirstChapter = chapter === 1
+const isFirstChapter = chapter <= 1
 ---
 
-<div class="flex gap-4 justify-between">
+<div class="flex gap-4 justify-between my-10">
   <div class="text-right flex-1 flex justify-start">
     {!isFirstChapter && (
       <ChapterButton chapter={chapter} slug={slug} direction="prev" />

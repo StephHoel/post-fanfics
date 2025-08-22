@@ -14,7 +14,7 @@ const { Content } = await post.render();
 <BaseLayout title={`${post.data.title} | ${getFicName(post.slug)}`}>
   <ChapterButtons chapter={post.data.chapter} slug={post.slug} chapters={chapters ?? []} />
 
-  <h1 class="text-3xl font-bold mt-6 mb-2 text-white">{post.data.title}</h1>
+  <h1 class="text-3xl font-bold my-2 text-white">{post.data.title}</h1>
   <p class="text-sm text-gray-400 mb-8">{post.data.publishDate?.toLocaleDateString() ?? 'Não publicado'} | {countWords(post.body ?? '')} palavras</p>
 
   <article class="prose prose-lg prose-invert max-w-none font-serif leading-relaxed space-y-6 text-justify">
