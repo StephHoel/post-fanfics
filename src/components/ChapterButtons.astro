@@ -1,0 +1,25 @@
+---
+import { type Props } from "../utils/Props"
+const { chapter, slug, chapters } = Astro.props as Props;
+
+import ChapterButton from './ChapterButton.astro'
+
+const nextChapter = chapters.find(c => c.data.chapter === chapter + 1);
+
+const isLastChapter = !nextChapter
+const isFirstChapter = chapter === 1
+---
+
+<div class="flex gap-4 justify-between">
+  <div class="text-right flex-1 flex justify-start">
+    {!isFirstChapter && (
+      <ChapterButton chapter={chapter} slug={slug} direction="prev" />
+    )}
+  </div>
+  
+  <div class="flex-1 flex justify-end text-right">
+    {!isLastChapter && (
+      <ChapterButton chapter={chapter} slug={slug} direction="next" />
+    )}
+  </div>
+</div>

@@ -3,7 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { countWords } from '../../../utils/countWords'
 import { getChapterStaticPaths } from '../../../utils/getChapterStaticPaths'
 import { getFicName } from '../../../utils/getFicName'
-import NextChapterButton from '../../../components/NextChapterButton.astro';
+import ChapterButtons from '../../../components/ChapterButtons.astro'
 
 export const getStaticPaths = getChapterStaticPaths;
 
@@ -12,18 +12,14 @@ const { Content } = await post.render();
 ---
 
 <BaseLayout title={`${post.data.title} | ${getFicName(post.slug)}`}>
-  <a href={`/post-fanfics/fanfics/${post.slug.split('/')[0]}`} class="text-blue-400 hover:underline">← Voltar</a>
+  <ChapterButtons chapter={post.data.chapter} slug={post.slug} chapters={chapters ?? []} />
 
   <h1 class="text-3xl font-bold mt-6 mb-2 text-white">{post.data.title}</h1>
   <p class="text-sm text-gray-400 mb-8">{post.data.publishDate?.toLocaleDateString() ?? 'Não publicado'} | {countWords(post.body ?? '')} palavras</p>
 
-
   <article class="prose prose-lg prose-invert max-w-none font-serif leading-relaxed space-y-6 text-justify">
     <Content />
-
-    {post.data.chapter > 0 && post.data.chapter < chapters.length-1 && (
-      <NextChapterButton chapter={post.data.chapter} slug={post.slug} chapters={chapters ?? []} />
-    )}
   </article>
 
+  <ChapterButtons chapter={post.data.chapter} slug={post.slug} chapters={chapters ?? []} />
 </BaseLayout>
