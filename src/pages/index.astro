@@ -4,14 +4,13 @@ import { getSortedFicEntries } from "../utils/getSortedFicEntries"
 ---
 
 <BaseLayout title="Minhas Fanfics">
-  <h1 class="text-4xl font-bold mb-10 text-center">📚 Minhas Fanfics</h1>
-
-  <div class="grid gap-6">
+  <h1 class="text-3xl sm:text-4xl font-bold mb-8 sm:mb-10 text-center">📚 Minhas Fanfics</h1>
+  <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
     {
       getSortedFicEntries().map(([slug, name]) => {
         return (
-          <div class="bg-gray-800 hover:bg-gray-700 transition rounded-2xl shadow p-6">
-            <h2 class="text-2xl font-semibold mb-3 text-gray-100">{name}</h2>
+          <div class="bg-gray-800 hover:bg-gray-700 transition rounded-2xl shadow p-5 sm:p-6">
+            <h2 class="text-xl sm:text-2xl font-semibold mb-2 sm:mb-3 text-gray-100">{name}</h2>
             <a
               href={`/post-fanfics/fanfics/${slug}`}
               class="inline-block text-indigo-400 hover:text-indigo-300 font-medium"
