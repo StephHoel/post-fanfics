@@ -3,9 +3,3 @@ export interface Props {
   slug: string;
   chapters: Array<{ data: { chapter: number }, slug: string }>;
 }
-
-export interface Button {
-  chapter: number
-  slug: string
-  direction: 'next' | 'prev'
-}

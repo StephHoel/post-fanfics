@@ -1,4 +1,4 @@
-import { ficNames } from './fic-names'
+import { ficNames } from './ficNames'
 
 /**
  * Retorna o nome legível de uma fanfic a partir do slug
