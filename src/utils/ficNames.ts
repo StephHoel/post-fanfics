@@ -3,4 +3,4 @@ export const ficNames: Record<string, string> = {
   // "entre-codigos-e-cameras": "Entre Códigos e Câmeras",
   // "destinos-cruzados": "Destinos Cruzados",
   "familia-conflitos-amores": "Família, Conflitos e Amores",
-};
+}

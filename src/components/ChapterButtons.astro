@@ -1,29 +1,41 @@
 ---
 import { type Props } from "../props/Props"
-const { chapter, slug, chapters } = Astro.props as Props
-
+import { ficNames } from "../utils/ficNames"
+import { getFicName } from "../utils/getFicName"
 import ChapterButton from "./ChapterButton.astro"
+
+const { chapter, slug, chapters } = Astro.props as Props
 
 const nextChapter = chapters.find((c) => c.data.chapter === chapter + 1)
 
 const isLastChapter = !nextChapter
 const isFirstChapter = chapter <= 1
+
+const slugClear = slug.split("/")[0]
+
+const url = `/post-fanfics/fanfics/${slugClear}`
 ---
 
-<div class="flex gap-4 justify-between my-10">
-  <div class="text-right flex-1 flex justify-start">
-    {
-      !isFirstChapter && (
-        <ChapterButton chapter={chapter} slug={slug} direction="prev" />
-      )
-    }
-  </div>
+<div>
+  <a href={url} class="text-center w-full inline-block mb-2">
+    {getFicName(slug)}
+  </a>
 
-  <div class="flex-1 flex justify-end text-right">
-    {
-      !isLastChapter && (
-        <ChapterButton chapter={chapter} slug={slug} direction="next" />
-      )
-    }
+  <div class="flex flex-wrap gap-2 sm:gap-4 justify-between mb-6 sm:mb-10">
+    <div class="text-right flex-1 flex justify-start">
+      {
+        !isFirstChapter && (
+          <ChapterButton chapter={chapter} slug={slug} direction="prev" />
+        )
+      }
+    </div>
+
+    <div class="flex-1 flex justify-end text-right">
+      {
+        !isLastChapter && (
+          <ChapterButton chapter={chapter} slug={slug} direction="next" />
+        )
+      }
+    </div>
   </div>
 </div>
