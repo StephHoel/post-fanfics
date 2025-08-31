@@ -9,9 +9,17 @@ export const getStaticPaths = getChapterStaticPaths
 
 const { post, chapters } = Astro.props
 const { Content } = await post.render()
+
+const slugClear = post.slug.split("/")[0]
+
+const base = "/post-fanfics/fanfics"
 ---
 
 <BaseLayout title={`${post.data.title} | ${getFicName(post.slug)}`}>
+  <a href={`${base}/${slugClear}`} class="text-center w-full inline-block mb-2">
+    {getFicName(post.slug)}
+  </a>
+
   <ChapterButtons
     chapter={post.data.chapter}
     slug={post.slug}
@@ -19,12 +27,20 @@ const { Content } = await post.render()
   />
 
   <h1 class="text-2xl sm:text-3xl font-bold my-2 text-white">
-    {post.data.title}
+    {
+      post.data.link ? (
+        <a href={`${base}/${post.data.link}`}>{post.data.title}</a>
+      ) : (
+        post.data.title
+      )
+    }
   </h1>
   <p class="text-xs sm:text-sm text-gray-400 mb-6 sm:mb-8">
-    {post.data.publishDate?.toLocaleDateString() ?? "Não publicado"} | {
-      countWords(post.body ?? "")
-    } palavras
+    {
+      post.data.publishDate
+        ? `Publicado em ${post.data.publishDate.toLocaleDateString("pt-BR")}`
+        : "Não publicado"
+    } | {countWords(post.body ?? "")} palavras
   </p>
 
   <article
