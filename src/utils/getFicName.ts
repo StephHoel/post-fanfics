@@ -5,6 +5,6 @@ import { ficNames } from './ficNames'
  * @param slug - slug da fanfic
 */
 export function getFicName(slug: string): string {
-  const key = slug.split('/')[0];
-  return ficNames[key] ?? key;
+  const key = slug.split('/')[0]
+  return ficNames[key] ?? key
 }
