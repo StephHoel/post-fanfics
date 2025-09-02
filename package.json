@@ -3,8 +3,8 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro build && astro preview",
-    "dev2": "astro dev",
+    "dev": "astro dev",
+    "prod": "astro build && astro preview",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
