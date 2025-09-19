@@ -1,0 +1,72 @@
+---
+title: "Capítulo 1: Entre Mensagens e Destinos"
+chapter: 1
+publishDate: 
+link: 
+---
+
+**Sthella POV**
+
+Chegar em Los Angeles foi como acordar em um sonho estranho e vibrante. O inglês misturado ao espanhol nas ruas, os letreiros luminosos e o cheiro de café forte me lembravam que eu estava longe de casa. Meu primeiro mês foi uma mistura de reuniões, adaptações e solidão. À noite, para aliviar a saudade, eu navegava pelas redes sociais, acompanhando perfis de artistas que admirava desde o Brasil.
+
+Entre eles, Sharlize. Atriz, dançarina, empreendedora, universitária e dona de uma energia que transbordava até pelas telas. Eu comentava em seus stories e publicações há meses, sempre tentando ser gentil e criativa, mas sem esperar resposta. Nunca comentei nada específico sobre minha vida que pudessem me localizar, mas em uma noite, depois de algumas horas no pier de Santa Monica, resolvi postar uma foto da tarde linda que tinha feito naquele dia. Marquei o local, afinal eu já estava longe de lá fazia algum tempo, e publiquei uma legenda em português de como a vista era linda e a vida era louca.
+
+Ninguém via minhas publicações, não esperava nada com aquilo. Era só um registro pessoal e talvez para familiares e amigos. Eu não esperava pelo o que tinha acontecido poucos minutos depois da publicação.
+
+---
+
+**Sharlize POV**
+
+Conhecer melhor quem interagia em minhas publicações nas redes sociais era um dos meus hobbies favoritos. Não era raro eu entrar no perfil de alguém apenas para colocar um rosto ao nome de usuário. Mas uma fã em específico chamou minha atenção. Ela não comentava sempre, mas sempre que comentava era algo espirituoso e não apenas um "Shar me nota" ou "Sharlize eu te amo" como a maioria fazia.
+
+Descobri que era uma mulher quando acessei seu perfil pela primeira vez. Era um perfil público com poucas fotos no geral. A última era de vários meses antes em seu último dia no Rio de Janeiro. A marcação de localização e o tradutor tinham me ajudado, já que estava em um idioma que eu não conhecia.
+
+Mas ali estava eu novamente acessando seu perfil para verificar se tinha alguma nova foto. E a surpresa me fez sentar na cama. Não estava esperando encontrar uma foto do pier publicada naquela noite. A legenda ainda era em outro idioma, mas isso não foi um problema. Quais as chances daquela fã ter saído do Rio de Janeiro para Los Angeles, minha cidade?
+
+— Por que você está sorrindo? — Shariah perguntou, entrando no meu quarto com um copo de leite, provavelmente para mim. — Mamãe mandou trazer para você. Ela disse que você não comeu nada desde que chegou.
+
+— Cheguei tão cansada que não deu. — respondi, aceitando o copo com um sorriso simples e me esquivando da pergunta original.
+
+Como eu contaria para minha irmã mais velha que eu estava sendo stalker de seguidor?
+
+— Então... sorrindo porque... — mas ela insistiu.
+
+É claro que ela não ia deixar passar.
+
+— Porque eu acabei de ver um perfil de uma fã. — contei, olhando-a como se quisesse enfiar minha cabeça na terra e me esconder para sempre.
+
+— E o que você viu nesse perfil para estar assim? — quis saber mais, sentando-se ao meu lado na cama.
+
+— Ela é de Los Angeles ou, pelo menos, está por aqui.
+
+— Tá, muitos fãs são daqui. O que ela tem de diferente?
+
+— Eu não sei. Ela não tenta chamar minha atenção só por chamar. Ela responde verdadeiramente minhas publicações.
+
+— E você está apaixonada por ela.
+
+— O quê? Eu? Não! Todo mundo sabe que namorar um fã não dá certo.
+
+— E ainda assim, você está aí com o perfil dela ainda aberto.
+
+Antes que eu pudesse esconder o telefone, Shariah pegou o aparelho da minha mão e, para minha infelicidade, ainda estava com o perfil aberto. Ela se levantou antes que eu pudesse protestar e me manteve afastada com uma mão em minha cabeça.
+
+— Vamos ver... Sthella, jovem, do Brasil. É, não vai dar certo mesmo não. Ela é muita areia pro seu caminhãozinho.
+
+Shariah era minha fã ou minha hater?
+
+— Jura? Tá falando isso logo para mim? Mas não, isso não daria certo por diversos outros motivos, MENOS que ela é muita areia pro meu caminhãozinho.
+
+— Então você está cogitando a ideia? — perguntou com uma sobrancelha arqueada.
+
+— Eu não! — respondi mais rápido do que deveria. — Okay, talvez eu tenha cogitado.
+
+— Kylie e Ruby vão adorar saber disso. — ela ameaçou, me devolvendo meu celular.
+
+— Você não ousaria!
+
+— Ah, eu ousaria sim! Só preciso do momento certo.
+
+Depois que minha irmã mais velha me deixou sozinha novamente, tomei um gole do leite e voltei a dar atenção às redes sociais. Antes que eu pudesse desfazer, tinha curtido a última foto publicada de **@dev.sthella**. Não sabia quando tinha sido, mas seria muito mais estranho se eu removesse a curtida, então escolhi deixá-la.
+
+Voltei minha atenção para responder outros comentários em publicações e stories. Haviam poucas mensagens privadas que eu realmente precisava responder, então quase não demorou.
