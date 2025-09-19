@@ -1,0 +1,57 @@
+---
+import ChapterButtons from "../../../components/ChapterButtons.astro"
+import BaseLayout from "../../../layouts/BaseLayout.astro"
+import { countWords } from "../../../utils/countWords"
+import { getChapterStaticPaths } from "../../../utils/getChapterStaticPaths"
+import { getFicName } from "../../../utils/getFicName"
+
+export const getStaticPaths = getChapterStaticPaths
+
+const { post, chapters } = Astro.props
+const { Content } = await post.render()
+
+const slugClear = post.slug.split("/")[0]
+
+const base = "/post-fanfics/fanfics"
+---
+
+<BaseLayout title={`${post.data.title} | ${getFicName(post.slug)}`}>
+  <a href={`${base}/${slugClear}`} class="text-center w-full inline-block mb-2">
+    {getFicName(post.slug)}
+  </a>
+
+  <ChapterButtons
+    chapter={post.data.chapter}
+    slug={post.slug}
+    chapters={chapters ?? []}
+  />
+
+  <h1 class="text-2xl sm:text-3xl font-bold my-2 text-white">
+    {
+      post.data.link ? (
+        <a href={`${base}/${post.data.link}`}>{post.data.title}</a>
+      ) : (
+        post.data.title
+      )
+    }
+  </h1>
+  <p class="text-xs sm:text-sm text-gray-400 mb-6 sm:mb-8">
+    {
+      post.data.publishDate
+        ? `Publicado em ${post.data.publishDate.toLocaleDateString("pt-BR")}`
+        : "Não publicado"
+    } | {countWords(post.body ?? "")} palavras
+  </p>
+
+  <article
+    class="prose prose-base sm:prose-lg prose-invert max-w-none font-serif leading-relaxed space-y-6 md:space-y-4"
+  >
+    <Content />
+  </article>
+
+  <ChapterButtons
+    chapter={post.data.chapter}
+    slug={post.slug}
+    chapters={chapters ?? []}
+  />
+</BaseLayout>

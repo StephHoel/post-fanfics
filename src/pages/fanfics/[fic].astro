@@ -1,0 +1,51 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro"
+import { orderChapters } from "../../utils/order"
+import { getFicStaticPaths } from "../../utils/getFicStaticPaths"
+import { getFicName } from "../../utils/getFicName"
+
+export const getStaticPaths = getFicStaticPaths
+
+const { chapters, fic } = Astro.props
+
+const capZero = chapters.find((chapter) => chapter.data.chapter === 0)
+const ordered = orderChapters(chapters)
+
+const title = getFicName(fic)
+---
+
+<BaseLayout title={title}>
+  <div class="max-w-3xl w-full mx-auto py-6 sm:py-10 px-4">
+    <h1
+      class="text-4xl sm:text-5xl font-bold mb-4 sm:mb-6 text-gray-900 dark:text-gray-100 text-center"
+    >
+      {title}
+    </h1>
+    {
+      capZero && capZero.data.chapterDetails?.synopsis && (
+        <div class="mt-2 mb-6 text-justify space-y-6 md:space-y-4">
+          <h2 class="text-3xl sm:text-2xl font-semibold">Sinopse:</h2>
+          {capZero.data.chapterDetails.synopsis
+            .split("\n\n")
+            .map((paragraph) => (
+              <p class="text-2xl sm:text-xl">{paragraph}</p>
+            ))}
+        </div>
+      )
+    }
+    <ul class="space-y-4">
+      {
+        ordered.map((chapter) => (
+          <li class="bg-white dark:bg-gray-800 p-3 sm:p-4 rounded-xl shadow">
+            <a
+              href={`/post-fanfics/fanfics/${chapter.slug}`}
+              class="text-2xl sm:text-xl font-medium text-gray-600 dark:text-gray-400 hover:underline"
+            >
+              {chapter.data.title}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</BaseLayout>

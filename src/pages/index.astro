@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro"
+import { getSortedFicEntries } from "../utils/getSortedFicEntries"
+---
+
+<BaseLayout title="Minhas Fanfics">
+  <h1 class="text-3xl sm:text-4xl font-bold mb-8 sm:mb-10 text-center">
+    📚 Minhas Fanfics
+  </h1>
+  <div class="grid gap-6">
+    {
+      getSortedFicEntries().map(([slug, name]) => {
+        return (
+          <a
+            class="bg-gray-800 hover:bg-gray-700 transition rounded-2xl shadow p-5 sm:p-6 flex flex-col md:flex-row md:justify-between"
+            href={`/post-fanfics/fanfics/${slug}`}
+          >
+            <h2 class="text-xl sm:text-2xl font-semibold mb-2 sm:mb-3 text-gray-100">
+              {name}
+            </h2>
+            <span class="text-indigo-400 font-medium my-auto text-right">
+              Ver capítulos →
+            </span>
+          </a>
+        )
+      })
+    }
+  </div>
+</BaseLayout>

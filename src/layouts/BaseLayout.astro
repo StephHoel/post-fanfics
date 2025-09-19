@@ -1,0 +1,26 @@
+---
+import Header from "./Header.astro"
+import "../styles/global.css"
+import Footer from "./Footer.astro"
+const { title } = Astro.props
+---
+
+<html lang="pt-BR" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/post-fanfics/favicon.svg" />
+    <title>{title ? `${title}` : "Minhas Fanfics"}</title>
+  </head>
+  <body
+    class="bg-gray-900 text-gray-100 font-sans min-h-screen w-full flex flex-col"
+  >
+    <Header />
+
+    <main class="flex-1 w-10/12 mx-auto px-4 py-6 text-2xl md:text-xl md:px-6">
+      <slot />
+    </main>
+
+    <Footer />
+  </body>
+</html>
