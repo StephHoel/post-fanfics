@@ -1,8 +1,6 @@
 ---
 title: Reordenar Commit
-chapter: 1
-publishDate: 
-link: 
+date: 2025-09-18
 ---
 
 Para reordenar commits usando o Vim durante um rebase interativo:
