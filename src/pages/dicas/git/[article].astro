@@ -1,0 +1,27 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro"
+import { getCollection } from "astro:content"
+
+// Gera os caminhos estáticos para todos os artigos em dicas/git
+export async function getStaticPaths() {
+  const entries = await getCollection("dicas")
+  // Filtra apenas os artigos da subpasta 'git'
+  return entries
+    .filter((entry) => entry.id.startsWith("git/"))
+    .map((entry) => ({
+      params: {
+        // Remove o prefixo 'git/' do slug
+        article: entry.slug.replace(/^git\//, ""),
+      },
+    }))
+}
+
+// Ajusta o import dinâmico para usar apenas o nome do artigo
+const { article } = Astro.params
+const post = await import(`../../../content/dicas/git/${article}.md`)
+const { default: Content } = post
+---
+
+<BaseLayout>
+  <Content />
+</BaseLayout>
