@@ -8,7 +8,7 @@ Preciso que você:
 - Garanta que a narração esteja no passado;
 - Garanta coesão e coerência do texto;
 - Garanta que não haverá repetição excessiva de palavras, sugerindo sinônimos para por no lugar;
-- Sugira modificações que o deixem mais detalhado e menos superficial;
+- Sugira modificações que o deixem mais detalhado, menos superficial, explorando os ambientes, a densidade emocional e as nuances internas de cada personagem;
 - Não remova trechos completos, apenas altere pontualmente o que for necessário;
 - Adicione trechos, caso necessário;
 - Sugira um novo título que faça sentido com o capítulo. Se não for necessário, não modifique o título;
