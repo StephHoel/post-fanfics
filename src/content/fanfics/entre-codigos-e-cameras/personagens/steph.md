@@ -1,4 +1,9 @@
-# Steph Hoel
+---
+title: "Steph Hoel"
+chapter: 0
+publishDate: 
+link: 
+---
 
 [![github.com/stephhoel](https://images.openai.com/thumbnails/url/KOm1vXicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7SDYgsinQr9SgIzAoONSjLKjYujvApy3UONzXLNcpNKQ7y0k1JMfD3TEpNLcrPjPcKrig1dw12L3UMdFQrBgAiVSoI)](https://github.com/StephHoel)
 
