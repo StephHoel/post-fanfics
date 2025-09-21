@@ -1,10 +1,5 @@
 import { defineCollection, z } from 'astro:content'
 
-const chapterDetailsSchema = z.object({
-  synopsis: z.string(),
-  tags: z.string(),
-})
-
 const fanfics = defineCollection({
   type: 'content',
   schema: z.object({
@@ -12,7 +7,12 @@ const fanfics = defineCollection({
     chapter: z.number(),
     publishDate: z.date().nullable(),
     link: z.string().nullable(),
-    chapterDetails: chapterDetailsSchema.optional()
+    isReviewed: z.boolean().optional(),
+    isApproved: z.boolean().optional(),
+    isPublished: z.boolean().optional(),
+    obs: z.string().nullable().optional(),
+    synopsis: z.string().optional(),
+    tags: z.string().optional(),
   }),
 });
 
