@@ -23,3 +23,10 @@ Temas Centrais:
 - **Ivory Baker**: Irmã mais nova de Malia, representa leveza e acolhimento familiar.
 - **Julia Amaris**: Mãe de Malia e Ivory, acolhedora e preocupada com o bem-estar das filhas.
 - **Elise Clearwater:** Exigente, cobra reconhecimento e sucesso da filha.
+
+## Locais/Títulos
+
+- [marcação de tempo] — Los Angeles, Califórnia
+- [marcação de tempo] — Estúdio em Burbank, Los Angeles
+- Apartamento de Emily — West Hollywood, Los Angeles
+- Casa de Kylie — Los Angeles, Califórnia
