@@ -1,8 +1,7 @@
 ---
 title: "Fora do Roteiro - Informações Gerais"
 chapter: -1
-publishDate: 
-link: 
+status: off
 ---
 
 ## Sinopse

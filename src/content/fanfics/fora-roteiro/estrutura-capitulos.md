@@ -1,8 +1,7 @@
 ---
 title: "Estrutura dos Capítulos – Fora do Roteiro"
 chapter: -3
-publishDate: 
-link: 
+status: off
 ---
 
 ## Capítulo 1 – Acordes Iniciais
