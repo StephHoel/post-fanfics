@@ -1,8 +1,7 @@
 ---
 title: "Kylie Cantrall"
-chapter: 0
-publishDate: 
-link: 
+chapter: -1
+status: off 
 ---
 
 [![en.wikipedia.org/wiki/ky...](https://images.openai.com/thumbnails/url/K-lolXicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4MTIwIKTZxz_NNcg_IdTdyLcmtzHbWdTVM0TUwdg4pzot3zAoLz0v3KCv1ig8rLs7LDjWrNA9y8StTKwYAu70pNA)](https://en.wikipedia.org/wiki/Kylie_Cantrall)

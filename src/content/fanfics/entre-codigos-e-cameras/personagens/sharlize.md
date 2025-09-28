@@ -1,8 +1,7 @@
 ---
 title: "Sharlize True"
-chapter: 0
-publishDate: 
-link: 
+chapter: -1
+status: off
 ---
 
 [![dailybruin.com/2025/05/2...](https://images.openai.com/thumbnails/url/8__5THicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4Mi9TVzfXOdndMLclMcjbyM0xzDjcrNS_ULbOMCPbLrnR2CSl29Qv18_HPdw_Oq4xP9Cg3Tc-MDHc3KlcrBgD-uSlt)](https://dailybruin.com/2025/05/21/sharlize-true-trujillo-builds-positive-platform-with-miss-culver-city-title)
