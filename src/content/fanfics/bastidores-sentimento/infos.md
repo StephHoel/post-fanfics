@@ -1,8 +1,7 @@
 ---
 title: "Informações"
-chapter: 0
-publishDate: 
-link: 
+chapter: -1
+status: off
 ---
 
 Anônima x Atriz (nome temporário)
