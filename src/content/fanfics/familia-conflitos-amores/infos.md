@@ -1,8 +1,7 @@
 ---
 title: "Infos"
-chapter: 0
-publishDate: 
-link: 
+chapter: -1
+status: off
 ---
 
 | Nome | Nascimento | Obs |
