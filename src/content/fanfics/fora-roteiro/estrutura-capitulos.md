@@ -113,7 +113,7 @@ status: off
 
 ---
 
-## Capítulo 9 – Segredos em Contracanto
+## Capítulo 9 – Medos e Possibilidades
 
 **Data:** Agosto/2026
 
@@ -126,7 +126,21 @@ status: off
 
 ---
 
-## Capítulo 10 – Sob os Holofotes
+## Capítulo 10 – Cautela e Desejo
+
+**Data:** Agosto/2026
+
+- Julia conversa com Malia sobre os riscos da exposição pública do relacionamento com Emily, trazendo à tona memórias do passado e preocupações maternas.
+- Malia reflete sobre ansiedade, carreira e o desejo de viver o romance sem medo.
+- Emily chega a Vancouver para uma reunião misteriosa sobre um novo projeto musical.
+- Malia precisa equilibrar atenção aos fãs e o desejo de proteger Emily e a si mesma.
+- Emily participa de uma reunião sigilosa com um artista famoso, assinando contrato de confidencialidade.
+- As duas aproveitam um momento juntas após a reunião, conversando sobre o futuro e sobre como equilibrar cautela e desejo.
+- Sugestão de cena: Malia relembra as palavras da mãe enquanto vive o presente ao lado de Emily, sentindo o peso e a leveza de amar em segredo.
+
+---
+
+## Capítulo 11 – Sob os Holofotes
 
 **Data:** Agosto/2026
 
@@ -138,7 +152,7 @@ status: off
 
 ---
 
-## Capítulo 11 – O Intervalo
+## Capítulo 12 – O Intervalo
 
 **Data:** Setembro/2026
 
@@ -150,7 +164,7 @@ status: off
 
 ---
 
-## Capítulo 12 – Silêncio em Quatro Paredes
+## Capítulo 13 – Silêncio em Quatro Paredes
 
 **Data:** Setembro/2026
 
@@ -162,7 +176,7 @@ status: off
 
 ---
 
-## Capítulo 13 – Canção Inacabada
+## Capítulo 14 – Canção Inacabada
 
 **Data:** Outubro/2026
 
@@ -174,7 +188,7 @@ status: off
 
 ---
 
-## Capítulo 14 – Vozes Paralelas
+## Capítulo 15 – Vozes Paralelas
 
 **Data:** Novembro/2026
 
@@ -185,7 +199,7 @@ status: off
 
 ---
 
-## Capítulo 15 – Amizades em Cena
+## Capítulo 16 – Amizades em Cena
 
 **Data:** Novembro/2026
 
@@ -197,7 +211,7 @@ status: off
 
 ---
 
-## Capítulo 16 – Ponte de Retorno
+## Capítulo 17 – Ponte de Retorno
 
 **Data:** Dezembro/2026
 
