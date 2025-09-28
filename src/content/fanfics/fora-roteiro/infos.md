@@ -17,15 +17,19 @@ Temas Centrais:
 
 ## Personagens Principais
 
-- **Emily Clearwater**: Jovem compositora, filha de uma mãe influente, luta para ser reconhecida pelo próprio talento.
-- **Malia Baker**: Atriz teen em ascensão, estrela do filme, tem uma relação próxima com a mãe Julia e a irmã Ivory.
+- **Emily Heavyn Clearwater**: Jovem compositora, filha de uma mãe influente, luta para ser reconhecida pelo próprio talento.
+- **Malia Simphiwe Baker**: Atriz teen em ascensão, estrela do filme, tem uma relação próxima com a mãe Julia e a irmã Ivory.
 - **Ivory Baker**: Irmã mais nova de Malia, representa leveza e acolhimento familiar.
 - **Julia Amaris**: Mãe de Malia e Ivory, acolhedora e preocupada com o bem-estar das filhas.
 - **Elise Clearwater:** Exigente, cobra reconhecimento e sucesso da filha.
+- **Caleb Allen Clearwater:** Irmão gêmeo de Emily, produtor musical em ascensão.
 
 ## Locais/Títulos
 
 - [marcação de tempo] — Los Angeles, Califórnia
 - [marcação de tempo] — Estúdio em Burbank, Los Angeles
+- [marcação de tempo] — Vancouver, Canadá
 - Apartamento de Emily — West Hollywood, Los Angeles
 - Casa de Kylie — Los Angeles, Califórnia
+- Casa das Baker — Vancouver, Canadá
+- Aeroporto Internacional de Vancouver — Vancouver, Canadá
