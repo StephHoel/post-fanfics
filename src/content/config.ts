@@ -8,24 +8,38 @@ const fanfics = defineCollection({
     chapter: z.number(),
     status: z.enum(Object.values(Status) as [string, ...string[]]),
 
-    // são obrigatórias caso chapter seja 0
+    // Obrigatórias se chapter for 0
     synopsis: z.string().optional(),
     tags: z.string().optional(),
 
-    // são obrigatórias caso status seja "publicado"
-    publishDate: z.date().optional(),
-    link: z.string().optional(),
-  }).refine(
-    (data) =>
-      !['publicado'].includes(data.status) || !!data.publishDate || !!data.link,
+    // Obrigatórias se status for "publicado"
+    publishDate: z.date().optional().nullable(),
+    link: z.string().optional().nullable(),
+  })
+  .refine(
+    (data) => {
+      if (data.status === 'publicado') {
+        return !!data.publishDate && !!data.link
+      }
+      return true
+    },
     {
       message: "data de publicação e link são obrigatórios quando status for 'publicado'",
       path: ['publishDate', 'link'],
     }
-  ).refine((data) => data.chapter === 0 || !!data.synopsis || !!data.tags, {
-    message: "sinopse e tags são obrigatórias se capítulo for 0",
-    path: ['synopsis', 'tags']
-  }),
+  )
+  .refine(
+    (data) => {
+      if (data.chapter === 0) {
+        return !!data.synopsis && !!data.tags
+      }
+      return true
+    },
+    {
+      message: "sinopse e tags são obrigatórias se capítulo for 0",
+      path: ['synopsis', 'tags'],
+    }
+  ),
 })
 
 const dicas = defineCollection({
