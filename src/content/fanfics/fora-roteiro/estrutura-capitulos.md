@@ -156,39 +156,26 @@ status: off
 
 **Data:** Setembro/2026
 
-- Discussão forte: Emily acusa Malia de se esconder; Malia acusa Emily de não confiar nela.
-- Decidem dar um tempo, cada uma focando em si.
-- Emily mergulha em música, tentando encontrar sentido; Malia se concentra na divulgação do filme.
-- Caleb tenta apoiar Emily, mas respeita o espaço da irmã.
-- Sugestão de cena: Emily compõe uma música fragmentada, expressando o vazio do afastamento.
+- Emily viaja para Vancouver, o projeto prestes a começar. Se hospeda em um hotel a meio caminho de Malia e do estúdio.
+- Em Vancouver, há menos paparazzi nas ruas.
+- Emily passa o tempo livre com Malia (depois das sessões e nos dias livres), além de passar tempo com Julia e Ivory também.
+- As composições são exatamente o que o artista quer e Emily é muito elogiada por seu trabalho.
+- Emily decide ficar mais algumas semanas em Vancouver.
 
 ---
 
-## Capítulo 13 – Silêncio em Quatro Paredes
-
-**Data:** Setembro/2026
-
-- Emily enfrenta bloqueio criativo, apatia e desespero.
-- Isolamento em casa, evitando contato até com Malia.
-- Caleb percebe a gravidade e decide ficar por perto, respeitando o silêncio da irmã.
-- Emily desabafa em fragmentos musicais e silêncios, mostrando vulnerabilidade profunda.
-- Sugestão de cena: Caleb prepara uma refeição para Emily, tentando quebrar o ciclo de isolamento.
-
----
-
-## Capítulo 14 – Canção Inacabada
+## Capítulo 13 – Canção Inacabada
 
 **Data:** Outubro/2026
 
-- Estreia oficial do filme, com ambas presentes.
-- Conversa final: aceitam que não podem viver para agradar aos outros.
+- Antes de Emily voltar à Los Angeles, elas decidem nomear a relação como namoro, oficialmente. Os únicos que sabem são Caleb e os mais próximos de Malia.
 - Assumem a relação para si mesmas, sem pressa de torná-la pública.
 - Emily começa a se sentir parte do lar de Malia, tocando violão na casa dela com Julia e Ivory por perto.
 - Sugestão de cena: Emily toca uma música inédita para Malia e sua família, simbolizando aceitação.
 
 ---
 
-## Capítulo 15 – Vozes Paralelas
+## Capítulo 14 – Vozes Paralelas
 
 **Data:** Novembro/2026
 
@@ -199,7 +186,7 @@ status: off
 
 ---
 
-## Capítulo 16 – Amizades em Cena
+## Capítulo 15 – Amizades em Cena
 
 **Data:** Novembro/2026
 
@@ -211,7 +198,7 @@ status: off
 
 ---
 
-## Capítulo 17 – Ponte de Retorno
+## Capítulo 16 – Ponte de Retorno
 
 **Data:** Dezembro/2026
 
