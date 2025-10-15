@@ -8,6 +8,7 @@ export const ficNames: Record<string, string> = {
   "fora-roteiro": "Fora do Roteiro",
   "possiveis-ones": "Possíveis One-Shots",
   "sangue-do-meu-sangue": "Sangue do Meu Sangue",
+  "vida-no-mar": "Vida no Mar",
 
   "era-das-chamas": "EAU – Era das Chamas",
   "pulso-lyara": "EAU – Era das Chamas – Livro II: O Pulso de Lyara",
