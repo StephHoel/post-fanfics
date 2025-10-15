@@ -8,4 +8,5 @@ export const ficNames: Record<string, string> = {
   "fora-roteiro": "Fora do Roteiro",
   "possiveis-ones": "Possíveis One-Shots",
   "sangue-do-meu-sangue": "Sangue do Meu Sangue",
+  "vida-no-mar": "Vida no Mar",
 }
