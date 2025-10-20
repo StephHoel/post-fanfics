@@ -1,22 +1,17 @@
 ---
-title: 
-chapter: eulalia.md
+title: O Iate Eulalia
+chapter: 0
 publishDate: 
 link: 
-status: rascunho
+status: off
 ---
 
-Perfeito — antes de expandirmos o capítulo 2, definir o **Eulalia** com precisão vai te dar base sólida pra cenas futuras (e ajuda muito na imersão e coerência espacial).
-Vamos tratá-lo como um **cenário fixo e simbólico**, quase um personagem.
-Abaixo está a **descrição completa**, com mapa conceitual, ambientação sensorial e simbologia narrativa, pensada para te servir como referência durante toda a fanfic.
+⚓ **O Iate *Eulalia***
 
----
-
-# ⚓ **O Iate *Eulalia***
-
-### 🌊 **Modelo e conceito**
+## 🌊 **Modelo e conceito**
 
 O *Eulalia* é um **iate à vela de 50 pés**, híbrido (com motor auxiliar diesel), fabricado sob encomenda.
+
 Construído pelos pais de Luísa, ambos velejadores e arquitetos navais, é **a única herança física e emocional** que ela mantém desde o acidente.
 
 O nome vem de *Eulália*, da etimologia grega *eu-lalos* — “bem falada”, “que fala com suavidade” —, o que contrasta ironicamente com o silêncio em que o barco vive hoje.
@@ -25,14 +20,12 @@ O nome vem de *Eulália*, da etimologia grega *eu-lalos* — “bem falada”, �
 
 ## ⚙️ **Características técnicas**
 
-| Detalhe                | Descrição                                                                                |
-| ---------------------- | ---------------------------------------------------------------------------------------- |
-| **Comprimento**        | 15 metros (50 pés)                                                                       |
-| **Propulsão**          | Velas automáticas + motor diesel de apoio                                                |
-| **Casco**              | Branco perolado, com detalhes prateados e o nome “Eulalia” gravado discretamente na popa |
-| **Pavimentos**         | 2 (convés principal e cabine inferior)                                                   |
-| **Capacidade**         | 4 a 6 pessoas, embora só Luísa o habite                                                  |
-| **Local de atracação** | Marina da Glória, vaga fixa, próxima ao píer de abastecimento                            |
+**Comprimento**: 15 metros (50 pés)
+**Propulsão**: Velas automáticas + motor diesel de apoio
+**Casco**: Branco perolado, com detalhes prateados e o nome “Eulalia” gravado discretamente na popa
+**Pavimentos**: 2 (convés principal e cabine inferior)
+**Capacidade**: 4 a 6 pessoas, embora só Luísa o habite
+**Local de atracação**: Marina da Glória, vaga fixa, próxima ao píer de abastecimento
 
 ---
 
@@ -75,13 +68,11 @@ O nome vem de *Eulália*, da etimologia grega *eu-lalos* — “bem falada”, �
 O *Eulalia* é o espelho do estado mental de Luísa.
 Cada parte do barco corresponde a uma camada emocional dela:
 
-| Parte do iate                | Simbolismo                                                                       |
-| ---------------------------- | -------------------------------------------------------------------------------- |
-| **Deck aberto**              | Liberdade — o espaço onde ela se sente viva e segura.                            |
-| **Cabine principal**         | Intimidade que ela evita — raramente dorme lá.                                   |
-| **Sala / área de trabalho**  | Controle — onde tudo é organizado e previsível, até o colapso.                   |
-| **Cozinha**                  | Cuidado — negligenciado até alguém (Renata) ocupar esse espaço.                  |
-| **Depósito (antiga cabine)** | Passado guardado — lembranças dos pais e objetos que ela não consegue descartar. |
+**Deck aberto**: Liberdade — o espaço onde ela se sente viva e segura.
+**Cabine principal**: Intimidade que ela evita — raramente dorme lá.
+**Sala / área de trabalho**: Controle — onde tudo é organizado e previsível, até o colapso.
+**Cozinha**: Cuidado — negligenciado até alguém (Renata) ocupar esse espaço.
+**Depósito (antiga cabine)**: Passado guardado — lembranças dos pais e objetos que ela não consegue descartar.
 
 O barco **flutua entre estabilidade e instabilidade**, assim como o coração de Luísa — firme na superfície, mas sujeito a oscilações internas.
 
@@ -98,14 +89,10 @@ O barco **flutua entre estabilidade e instabilidade**, assim como o coração de
 
 ## 🪶 **Detalhes sutis para narrativa**
 
-* Há **duas canecas** idênticas no armário, mas uma está sempre guardada — dos pais.
+* Há **duas canecas** idênticas no armário que não podem ser usadas nunca, pois são dos pais.
 * Um **porta-retrato virado para baixo** no quarto principal.
-* Uma **manta azul marinho** no sofá, onde ela dorme.
+* Uma **manta azul marinho** no sofá, onde ela geralmente dorme.
 * Um **pingente de bússola** pendurado na escada (presente da mãe).
 * Um **post-it amarelado** na parede próxima ao computador com a frase:
 
-  > “Voltar ao mar é lembrar quem somos.” — assinatura do pai.
-
----
-
-Quer que eu monte agora uma **descrição literária** do *Eulalia* (para ser usada no começo do Capítulo 2, quando Luísa acorda e o observa), ou prefere que a gente **use essas informações para expandir o capítulo diretamente**, inserindo o cenário como parte da narrativa (sensações, objetos, luz, sons)?
+> “Voltar ao mar é lembrar quem somos.” — assinatura do pai.
