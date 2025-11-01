@@ -1,6 +1,6 @@
 ---
 title: Estrutura da Fanfic
-chapter: 0
+chapter: -1
 publishDate: 
 link: 
 status: rascunho
