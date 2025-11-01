@@ -1,6 +1,6 @@
 ---
 title: Ficha Inicial de Personagem
-chapter: 0
+chapter: -1
 publishDate: 
 link: 
 status: off
