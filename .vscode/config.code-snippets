@@ -1,0 +1,18 @@
+{
+	"Fanfic Chapter Header": {
+		"scope": "markdown",
+		"prefix": "header",
+		"body": [
+			"---",
+			"title: ",
+			"chapter: ${TM_FILENAME_BASE}",
+			"publishDate: ",
+			"link: ",
+			"status: rascunho",
+			"---",
+			"",
+			"$0"
+		],
+		"description": "Header para capítulos de fanfic com número do capítulo automático"
+	}
+}
