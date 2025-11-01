@@ -6,6 +6,7 @@ export const ficNames: Record<string, string> = {
   "entre-codigos-e-cameras": "Entre Códigos e Câmeras",
   "familia-conflitos-amores": "Família, Conflitos e Amores",
   "fora-roteiro": "Fora do Roteiro",
+  "frequencia-silenciosa": "Frequência Silenciosa",
   "possiveis-ones": "Possíveis One-Shots",
   "sangue-do-meu-sangue": "Sangue do Meu Sangue",
   "vida-no-mar": "Vida no Mar",
