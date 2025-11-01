@@ -3,6 +3,7 @@ export const ficNames: Record<string, string> = {
   "bastidores-sentimento": "Bastidores de Um Sentimento",
   "derrubando-muros": "Derrubando Muros",
   "destinos-cruzados": "Destinos Cruzados",
+  "dia-seguinte": "O Dia Seguinte",
   "entre-codigos-e-cameras": "Entre Códigos e Câmeras",
   "familia-conflitos-amores": "Família, Conflitos e Amores",
   "fora-roteiro": "Fora do Roteiro",
