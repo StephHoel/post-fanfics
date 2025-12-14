@@ -1,0 +1,14 @@
+{
+    "version": "0.2",
+    "language": "pt",
+    "ignoreRegExpList": [
+        "\\b[A-Z0-9]{2,}\\b",
+        "\\b[Nn]ocker\\b",
+        "\\b[Ll][Ee][Oo][Rr][Ii][Cc]\\b",
+        "\\b[Ss][Aa][Ll][Tt][Ww][Ii][Nn][Dd]\\b",
+        "\\b[Kk][Aa][Ii][Ll][Oo][Aa]\\b",
+        "\\b[Oo][Ll][Ee][Dd]\\b"
+    ],
+    "words": [],
+    "ignoreWords": []
+}

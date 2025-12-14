@@ -15,4 +15,11 @@ export const ficNames: Record<string, string> = {
 
   "era-das-chamas": "EAU – Era das Chamas",
   "pulso-lyara": "EAU – Era das Chamas – Livro II: O Pulso de Lyara",
+
+  // "fanfic_tres_pais":"Três Pais",
+  // "fanfic_vampira":"Vampira",
+  // "leo-maresia":"Leo Maresia",
+  // "nocker":"Nocker",
+  // "nocker2":"Nocker: Temporada 2",
+  // "princesa":"Princesa",
 }
