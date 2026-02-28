@@ -18,7 +18,17 @@
         "nocker",
         "nocker2",
         "princesa",
+        "sobrenatural"
     ],
+    "cSpell.enabled": true,
+    "cSpell.language": "pt_BR, en",
+    "cSpell.checkOnlyEnabledFileTypes": true,
+    "cSpell.enabledFileTypes": {
+        "markdown": true,
+        "plaintext": true,
+        "javascript": true,
+        "typescript": true
+    },
     "cSpell.words": [
         "Aelynn",
         "Anki",
@@ -34,7 +44,9 @@
         "KAILOA",
         "Kerrik",
         "Kithain",
+        "Kylie",
         "LEORIC",
+        "Malia",
         "Malreth",
         "microfendas",
         "Neovila",
@@ -50,6 +62,7 @@
         "Soriel",
         "Talren",
         "Tecnobárbara",
+        "telecinese",
         "Thorian",
         "transdimensionais",
         "Unseelie",
