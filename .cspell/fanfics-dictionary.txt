@@ -4,8 +4,11 @@ Crissea
 Eletrocinese
 Elidra
 Faelar
+gatilhar
+Kanima
 Kithain
 Kitsune
+kitsunes
 Metamorfo
 Metamorfos
 Neovila
@@ -15,5 +18,7 @@ Seelie
 Tecnobárbara
 Telecinese
 Transmorfo
+transmorfos
 Unseelie
 Wiccaniano
+Wiccanianos
