@@ -1,5 +1,6 @@
 Aelynn
 Anki
+Auradon
 Berhani
 Cantrall
 Colley
@@ -11,6 +12,7 @@ Kailoa
 Kerrik
 Kylie
 Leoric
+Maeve
 Malia
 Malreth
 Manheim
