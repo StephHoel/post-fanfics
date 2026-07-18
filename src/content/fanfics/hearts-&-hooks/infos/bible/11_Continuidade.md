@@ -110,7 +110,7 @@ Até o momento não ocorreu salto temporal.
 ✔ Objetos conscientes
 ✔ Cartas administrativas
 ✔ Bibliotecas vivas
-✔ Cadeiras encantadas
+✔ Cadeira encantada
 
 ## Estrutura Militar
 

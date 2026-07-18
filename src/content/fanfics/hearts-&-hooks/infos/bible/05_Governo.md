@@ -141,9 +141,9 @@ Rainha
   ↓
 Primeira-Ministra
   ↓
-Pequeno Conselho da Coroa
+Pequeno Conselho da Coroa (Demais membros)
   ↓
-Administração Civil
+Grande Conselho de Wonderland (Parlamento)
 
 ---
 

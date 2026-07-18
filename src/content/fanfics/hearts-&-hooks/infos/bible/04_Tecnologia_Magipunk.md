@@ -91,7 +91,7 @@ Ainda não foi definido se existe uma infraestrutura central.
 
 ---
 
-## Cadeiras Encantadas
+## Cadeira Encantada
 
 Só existe uma, criada pelos inventores quando Black ainda era pequena para acomodá-la e integrá-la à vida em sociedade.
 

@@ -45,7 +45,7 @@ Nos acontecimentos mais recentes da franquia, Harriet começa a romper com o leg
 
 ## Dados Gerais
 
-- Idade: 23 anos.
+- Idade: 25 anos.
 - Data de nascimento: INDEFINIDA.
 - Residência: Castelo de Copas.
 - Estado civil: INDEFINIDO.
@@ -116,8 +116,7 @@ Permanece compatível com qualquer habilidade canônica futura.
 
 ## Cargo Oficial
 
-- Primeira-Ministra de Wonderland.
-- Chefe da Administração Civil.
+- Primeira-Ministra de Wonderland / Chefe da Administração Civil.
 - Coordenadora do Conselho da Coroa.
 
 ---

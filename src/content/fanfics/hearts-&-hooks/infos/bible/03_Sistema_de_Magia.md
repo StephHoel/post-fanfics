@@ -250,7 +250,7 @@ INDEFINIDO.
 Conhecidos
 
 - Espelhos de bolso.
-- Cadeiras encantadas.
+- Cadeira encantada.
 
 Ainda não definidos:
 
