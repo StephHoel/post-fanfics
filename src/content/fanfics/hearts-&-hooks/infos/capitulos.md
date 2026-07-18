@@ -1985,3 +1985,307 @@ A consulta seguiu com o médico dizendo que eu precisaria passar algumas pomadas
 À noite, minhas damas de companhia teriam as pomadas e saberiam como aplicar.
 
 Naquele momento, eu tinha um jantar para comparecer.
+
+---
+
+## Capítulo 8 - Antes da Partida
+
+Alguns dias depois, acordei antes que as primeiras luzes atravessassem os vitrais.
+
+Isso não costumava acontecer. Em geral, era o sol no meu rosto ou Ink era quem decidia que a manhã havia começado. O pequeno arganaz me acordava caminhando sobre o travesseiro ou puxando uma mecha da meus cabelos. Naquele dia, porém, ele continuava enrolado em seu travesseiro, dormindo com a tranquilidade de quem não precisava se preocupar com horários, mapas ou reuniões do conselho.
+
+Eu invejava um pouco aquela capacidade.
+
+Permaneci de olhos abertos, ouvindo o castelo despertar aos poucos. A chuva que caía no Jardim dos Espelhos produzia um ruído distante e constante, embora, pela janela, o céu ainda estivesse apenas cinzento. Em algum corredor abaixo, uma armadura espirrou. Outra armadura respondeu desejando saúde.
+
+Wonderland estava acordando.
+
+Meu corpo também. Infelizmente, ele fazia isso com bem menos gentileza.
+
+Havia um peso conhecido nas pernas, uma rigidez que o repouso não conseguia desfazer por completo. Não era uma dor nova, mas agora eu sabia que fingir que ela não existia não a tornava menor. Só tornava todo o resto mais difícil depois.
+
+Uma batida discreta soou à porta.
+
+— Alteza? — a voz de Eleanor atravessou a madeira. — Podemos entrar?
+
+— Podem.
+
+Ela entrou com Maeve logo atrás. As duas carregavam a bandeja baixa de madeira que o doutor Alder havia mandado preparar: pequenos frascos de vidro escuro, toalhas aquecidas por encantamento e uma faixa de exercícios de tecido firme.
+
+— Bom dia, princesa.
+
+— Bom dia, Maeve. Eleanor.
+
+— Acordou cedo demais. — observou Eleanor, aproximando-se da cama.
+
+— Infelizmente. Mas Ink ainda não recebeu o memorando. — comentei com um sorriso simples.
+
+O arganaz abriu um olho ao ouvir seu nome. Depois bocejou, inteiramente indiferente à acusação, e tornou a se enroscar.
+
+Maeve sorriu enquanto afastava completamente as cortinas.
+
+— Ele parece ocupado demais para responder.
+
+Com a ajuda delas, o cobertor saiu de cima do meu corpo para expor meu pijama curto com estampas de baralho com o qual havia passado aquela noite. Eleanor ajustou cuidadosamente minha posição, verificando se eu estava confortável antes de colocar a toalha morna sobre minhas pernas.
+
+O calor se espalhou devagar, não resolvendo tudo, mas tornando a rigidez mais suportável. Minhas manhãs passaram a começar com os cuidados receitados pelo doutor. Mesmo com poucos dias, já havia uma ligeira melhora.
+
+— A primeira pomada. — disse Eleanor, abrindo um dos frascos.
+
+O cheiro de ervas, cânfora e alguma coisa levemente doce preencheu o quarto. Fechei os olhos por um instante enquanto as duas aplicavam o preparado conforme as instruções do médico. Não era uma sensação especialmente agradável, mas também não era o castigo que eu imaginara quando Alder falou em tratamento diário.
+
+Talvez porque ninguém ali me tratasse como se eu fosse frágil.
+
+Depois da aplicação, Maeve segurou a faixa de exercícios à frente dos meus pés.
+
+— Só até onde estiver confortável, Alteza.
+
+— Eu sei.
+
+— Eu sei que sabe. Ainda assim, preciso dizer.
+
+Aquilo soava muito como uma frase da mamãe. Suspeitei que as duas tivessem recebido instruções bastante claras.
+
+Começamos pelos movimentos mais simples. Alongamentos lentos, feitos dentro do limite que eu conseguia alcançar, seguidos por pequenas repetições para evitar que os músculos permanecessem enrijecidos. A cada vez que a dor ameaçava crescer, Eleanor diminuía o ritmo sem precisar que eu pedisse.
+
+Ink finalmente acordou e observou tudo da cama, com as orelhinhas erguidas e uma expressão tão séria que parecia estar supervisionando o tratamento.
+
+— Não comece você também. — murmurei para ele.
+
+Ele respondeu com um chiado baixo.
+
+— Exatamente. Isso foi o que eu pensei.
+
+Quando terminamos, eu estava cansada, mas a pressão incômoda havia cedido um pouco. Maeve me ajudou a chegar na banheira e me banhar enquanto Eleanor separava um vestido preto de mangas vermelhas. Antes de me arrumar, ainda houve a passagem da última pomada e então eu estava pronta para me vestir e prender a trança. Ink ocupou seu lugar habitual no meu colo assim que sentei na cadeira de rodas.
+
+— Pronto. — anunciou Maeve.
+
+Observei o reflexo no espelho. Ainda parecia comigo. Só que agora havia frascos de pomada sobre a mesa e exercícios na rotina antes do café.
+
+Eu não sabia se gostava da mudança. Mas sabia que precisava dela.
+
+O Grande Salão das Refeições já estava cheio quando cheguei. O aroma de pães recém-assados, frutas caramelizadas e chá de rosas me alcançou antes mesmo das portas. Por dentro, a mesa longa parecia ainda mais movimentada do que de costume.
+
+Harriet tinha uma pilha de documentos ao lado do prato, o que significava que alguém precisaria lembrá-la de comer. Red conversava com dois capitães através do espelho de bolso. Hazel verificava uma lista de nomes e horários de treinamento. Pink e CJ discutiam, em voz baixa demais para ser confiável, sobre alguma aula que as duas tinham naquele dia.
+
+Harry, como sempre, tinha conseguido ocupar espaço suficiente para parecer duas pessoas.
+
+E papai estava lá.
+
+James Hook ria de alguma coisa que Harry acabara de dizer, com o casaco azul-marinho impecável e o gancho apoiado sobre a mesa. Mamãe, na cabeceira da mesa, fingia concentrar-se na própria xícara de chá, mas o pequeno sorriso no canto da boca denunciava que ela estava ouvindo a conversa.
+
+— Finalmente! — disse Red, encerrando a chamada assim que me viu. — Estávamos quase começando sem você.
+
+— Vocês jamais começariam sem mim.
+
+— Eu começaria. — respondeu Harry.
+
+— Você começaria sem qualquer pessoa, desde que houvesse tortinhas suficientes. — corrigiu Hazel.
+
+— Isso é uma acusação grave.
+
+— E correta. — afirmou CJ.
+
+Papai abriu os braços na minha direção.
+
+— Bom dia, minha princesa!
+
+— Bom dia, papai.
+
+Ele se inclinou para beijar o topo da minha cabeça quando me aproximei dele. O gesto foi rápido e natural, mas suficiente para que Ink reclamasse em meu colo.
+
+Atravessei todo o salão e fui cumprimentar mamãe. Assim que parei ao seu lado, estendi a mão para pegar e beijar a mão dela em sinal de respeito.
+
+— Bom dia, mamãe.
+
+— Bom dia, Black.
+
+Fui até meu lugar de sempre e os funcionários começaram a nos servir o café da manhã.
+
+Quando todos já tinham sido servidos, a conversa voltou de forma leve. Pink contou, com muitos detalhes e pouca preocupação, que uma de suas aulas envolveria testes de reação entre poções de mudança de cor. CJ garantiu que suas próprias aulas eram muito mais perigosas, embora ninguém tivesse entendido exatamente por quê. Hazel mencionou uma recruta que conseguira fazer um grifo obedecer a uma ordem pela primeira vez.
+
+Então papai pousou a xícara. O gesto foi pequeno, mas a mesa silenciou quase imediatamente.
+
+— Tenho uma notícia para vocês.
+
+Harry largou o garfo.
+
+— Boa ou ruim?
+
+— As duas coisas, se você tiver o hábito de sentir saudade de mim.
+
+— Eu tenho. Bem pouco, mas tenho.
+
+James sorriu, mas seus olhos foram primeiro até mamãe.
+
+— Vou voltar ao mar em poucos dias. O navio já está quase pronto e há assuntos nos estaleiros e nas rotas do leste que preciso resolver pessoalmente.
+
+Por alguns segundos, ninguém respondeu.
+
+Não era a primeira vez que papai partia. O mar fazia parte dele quase tanto quanto Wonderland fazia parte de mamãe. Ainda assim, anunciar uma viagem nunca parecia simples.
+
+— Por quanto tempo? — perguntou Red.
+
+— Ainda não sei. Algumas semanas, talvez um pouco mais, dependendo do que encontrarmos.
+
+Harriet assentiu, já assumindo a expressão de quem reorganizava compromissos na cabeça.
+
+Foi Harry quem se inclinou sobre a mesa, os olhos brilhando com uma ideia que eu reconheci imediatamente como perigosa.
+
+— Então você precisa conhecer a minha companheira antes de ir.
+
+Papai ergueu as sobrancelhas.
+
+— Preciso?
+
+— Precisa. — Harry apontou o garfo para ele, como se a decisão fosse inteiramente sua. — Você vive dizendo que uma família não pode passar tempo demais sem se reunir. Agora é a oportunidade perfeita.
+
+Ele se voltou para mamãe com um entusiasmo impossível de ignorar.
+
+— Mãe, podemos fazer uma festa. Com todos os agregados.
+
+Pink abriu um sorriso.
+
+— "Agregados" é uma palavra horrível.
+
+— É uma palavra muito eficiente. — defendeu Harriet.
+
+— Nossos namorados têm nomes. — reclamou Hazel.
+
+— Eu sei que têm nomes. Só não queria dizer todos agora.
+
+— Porque você esquece alguns? — perguntou CJ, fingindo inocência.
+
+Harry levou uma mão ao peito.
+
+— Eu jamais esqueceria alguém que minha família escolheu amar.
+
+— Você esqueceu o nome do cozinheiro novo ontem. — disse Red.
+
+— Ele não é agregado.
+
+Mamãe fez um gesto discreto e a pequena discussão cessou. Bridget olhou para Harry, depois para James.
+
+— Não é necessário transformar uma apresentação em um acontecimento oficial.
+
+— Não estou pedindo uma cerimônia oficial, mãe. — disse Harry. — Só um jantar. Todo mundo junto, antes que o pai parta.
+
+— Com decoração. — acrescentou Pink.
+
+— Sem explosões. — completou Red.
+
+— Com comida de verdade. — disse CJ.
+
+— Essa parte é essencial. — confirmou James.
+
+Mamãe soltou um suspiro que não parecia exatamente uma recusa, mas ainda assim balançou a cabeça.
+
+— Há trabalho demais no castelo para tanta pompa em tão pouco tempo.
+
+Papai olhou para a Rainha de forma simples, firme e completamente familiar.
+
+— Bridget, minha rainha, não precisamos de pompa. Mas eu gostaria de um jantar especial. Gostaria de ver a nossa família reunida antes de partir.
+
+Ela o observou por alguns segundos. A Rainha de Copas poderia sustentar o olhar de ministros, diplomatas e até de criaturas que saíam de espelhos sem piscar. Diante dele, porém, sua expressão suavizou.
+
+— Um jantar especial. — ela repetiu, como se testasse as palavras.
+
+— Um jantar especial. — confirmou James.
+
+Harry pareceu prender a respiração. Pink juntou as mãos diante do peito. CJ olhou para Hazel, sorrindo.
+
+Mamãe tomou mais um gole de chá antes de responder:
+
+— Muito bem. Será no dia anterior à sua viagem.
+
+O alívio e a animação se espalharam pela mesa de uma só vez.
+
+— Agora que todos conseguiram acrescentar mais uma responsabilidade à agenda do castelo, — continuou ela, e o tom de mãe deu lugar ao de Rainha. — vamos organizar o dia.
+
+Harriet endireitou-se imediatamente.
+
+— Hoje temos a reunião do conselho. Quase todos os membros da mesa estarão presentes, então preciso revisar os relatórios da manhã antes da primeira hora.
+
+— Eu vou convocar novos marinheiros. — disse Harry. — Se o pai vai voltar ao mar, a tripulação precisa estar completa antes da partida.
+
+James fez um breve aceno de aprovação.
+
+— Continue procurando gente que saiba obedecer a ordens, rapaz.
+
+— Essa é a parte mais difícil.
+
+Hazel fechou a lista que estava lendo.
+
+— Continuo no treinamento dos novos integrantes da Guarda Mágica. Os grifos já estão aceitando melhor os recrutas, mas os recrutas ainda precisam aprender a aceitar os grifos.
+
+— Esse é o mais complicado. — afirmou Red. — Eu tenho a patrulha. — continuou. — E vou conferir pessoalmente os postos da muralha leste antes da reunião.
+
+Mamãe assentiu.
+
+— Mantenha-me informada.
+
+Quando todos os olhos se voltaram para mim, estendi um dedo para acariciar Ink quase como reflexo.
+
+— Vou continuar o remapeamento. Hoje começo a revisar as passagens internas do castelo com os aprendizes do Ateliê.
+
+Red abriu a boca, provavelmente pronta para lembrar que eu não sairia sozinha quando as medições chegassem à capital. Mas antes que ela pudesse, mamãe falou:
+
+— Dentro do castelo, os aprendizes e os mapas bastam, Red. Para qualquer saída externa, a ordem da Guarda permanece.
+
+— Eu sei. — respondi, antes que Red dissesse algo.
+
+Minha gêmea inclinou a cabeça, satisfeita demais para disfarçar.
+
+Pink levantou uma das mãos.
+
+— Eu tenho aulas o dia inteiro. E, antes que alguém pergunte, o laboratório vai continuar inteiro.
+
+— Isso foi uma promessa ou uma ameaça? — perguntou Harry.
+
+— Ciência nunca ameaça ninguém. Às vezes só surpreende.
+
+CJ riu.
+
+— Eu também tenho aulas o dia inteiro. E não vou explodir nada.
+
+— Você vai fazer o quê, então? — Pink pareceu ofendida.
+
+— Aprender, aparentemente.
+
+As duas começaram uma nova discussão antes que mamãe erguesse uma sobrancelha. O silêncio retornou com a rapidez de um feitiço.
+
+Por fim, James olhou diretamente para Bridget.
+
+— E eu quero passar o dia inteiro ao lado da Rainha, se ela permitir.
+
+Harriet baixou os olhos para esconder um sorriso. Harry fez uma expressão de nojo teatral. Pink soltou um pequeno "awn" que tentou disfarçar com uma tosse.
+
+Mamãe, contudo, permaneceu imóvel por um instante. Então abriu um sorriso tão pequeno que poderia ser confundido com um espasmo.
+
+— Permitirei. — disse ela. — Desde que não atrapalhe o trabalho da Rainha.
+
+— Eu jamais me atreveria.
+
+O sorriso de papai provava exatamente o contrário.
+
+Pouco depois, as últimas xícaras foram recolhidas e as cadeiras começaram a se afastar da mesa. Harriet reuniu seus documentos. Hazel prendeu a lista ao cinto. Red recolocou as luvas da Guarda Real. Pink e CJ saíram juntas, ainda discutindo sobre qual das aulas seria mais cansativa.
+
+Harry foi o último a se levantar entre os irmãos, lançando ao pai um olhar animado que dizia claramente que já começaria os preparativos para o jantar antes mesmo de encontrar os marinheiros.
+
+Eu me posicionei em direção à porta, mas ouvi mamãe me chamar.
+
+— Não se esqueça dos exercícios no fim do dia. — ela disse baixo.
+
+— Não vou esquecer.
+
+Ela pareceu acreditar. Ou pelo menos decidiu me dar a chance de provar.
+
+De volta ao meu colo, Ink soltou um chiado determinado, como se assumisse a responsabilidade de garantir que eu cumprisse a promessa.
+
+— Você não vai esquecer por mim. — murmurei.
+
+Mas ele já parecia muito satisfeito com o próprio novo cargo.
+
+Um a um, seguimos pelos corredores do Castelo de Copas, cada qual em direção aos seus próprios afazeres. O reino aguardava mapas, patrulhas, aulas, recrutas, decisões e reuniões.
+
+E, entre todas aquelas responsabilidades, um jantar especial começava a tomar forma.
