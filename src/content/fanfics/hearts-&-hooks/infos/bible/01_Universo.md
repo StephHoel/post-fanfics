@@ -282,25 +282,45 @@ Quando Bridget e James estão simultaneamente no castelo, toda a família partic
 
 ## Continuidade Atual
 
-> Atualização: a narrativa alcançou o Capítulo 7. Para os acontecimentos posteriores ao Capítulo 4, consultar `12_Linha_do_Tempo.md` e `11_Continuidade.md`.
+### Capítulo 1 — Entre Espelhos e Mapas
 
-Capítulo 1
+- Black Hearts, Ink, Eleanor e Maeve são apresentados em sua rotina no Castelo de Copas.
+- A vida cotidiana de Wonderland e os objetos conscientes são introduzidos, incluindo a greve do elevador de cartas.
 
-- Introdução de Black.
-- Introdução de Ink.
-- Introdução de Wonderland.
+### Capítulo 2 — O Café da Manhã das Rainhas e dos Piratas
 
-Capítulo 2
+- Harriet pede a Black que analise os mapas da fronteira norte.
+- Descobre-se que a Floresta dos Sussurros mudou de lugar pela terceira vez no semestre, afetando caravanas, correio e patrulhas.
+- A família se reúne para o café da manhã, conforme a tradição quando Bridget e James estão no castelo.
 
-- Café da manhã da família.
+### Capítulo 3 — As Regras da Casa
 
-Capítulo 3
+- Pink recebe restrições temporárias após acidentes em laboratórios do castelo.
+- Bridget distribui as tarefas do dia e ordena que Black entregue um novo mapa da Floresta dos Sussurros antes do jantar.
+- CJ parte para uma expedição ao Bosque das Lanternas.
 
-- Descoberta da alteração da Floresta dos Sussurros.
+### Capítulo 4 — Linhas que se Movem
 
-Capítulo 4
+- Black trabalha com Mestre Rowan e a equipe do Ateliê Real de Cartografia.
+- A comparação entre mapas indica mudanças na floresta, no rio e no relevo próximo; Black formula a hipótese, ainda não confirmada, de que o terreno se reorganiza junto da floresta.
+- A greve do elevador de cartas é encerrada após negociação conduzida por Harriet e James.
 
-- Trabalho de Black no Ateliê de Cartografia.
+### Capítulo 5 — Um Almoço Entre Coroas e Pergaminhos
+
+- Red, Harriet, Pink e CJ percebem que Black está mais cansada e com dores nas pernas intensificadas.
+- Pink oferece um bracelete experimental para aliviar a dor; Black o recusa por falta de testes suficientes.
+- Black é convocada ao gabinete da Rainha.
+
+### Capítulo 6 — Entre a Rainha e a Mãe
+
+- Bridget determina que Black retome imediatamente o acompanhamento médico.
+- É anunciada uma cúpula diplomática para o próximo mês, com delegações confirmadas de pelo menos seis reinos.
+- Black coordenará o remapeamento do Castelo de Copas e da capital com dois aprendizes; Red escoltará suas saídas externas.
+
+### Capítulo 7 — Ecos de Cuidado
+
+- Black conclui e envia à Rainha o mapa técnico da Floresta dos Sussurros, destinado a exploradores, patrulheiros e estrategistas.
+- Na consulta com o doutor Alder, são registradas dores diárias nas pernas; ele recomenda pomadas para relaxamento muscular e exercícios para evitar enrijecimento.
 
 ---
 
