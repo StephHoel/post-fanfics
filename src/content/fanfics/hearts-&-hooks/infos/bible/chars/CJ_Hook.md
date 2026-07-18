@@ -244,6 +244,7 @@ Pode acompanhar missões de reconhecimento quando necessário.
 - Possui facilidade extraordinária para orientação.
 - Costuma retornar das expedições com presentes curiosos para todos os irmãos.
 - É frequentemente a primeira voluntária para qualquer aventura.
+- No Capítulo 5, é uma das irmãs que percebe o cansaço de Black e informa Bridget.
 
 ---
 

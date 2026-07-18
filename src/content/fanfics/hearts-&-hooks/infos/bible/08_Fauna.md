@@ -94,7 +94,7 @@ Ainda sem nome.
 
 ### Pink Hearts
 
-Coelho Branco.
+Filhote do Coelho Branco.
 
 Ainda sem nome.
 
@@ -121,6 +121,12 @@ Existe no cânone de Alice e Descendants.
 Existem.
 
 São utilizados pela Guarda Mágica.
+
+### Flamingos
+
+Foram observados como montaria de carteiros.
+
+Espécie e demais características: INDEFINIDAS.
 
 ### Arganazes
 

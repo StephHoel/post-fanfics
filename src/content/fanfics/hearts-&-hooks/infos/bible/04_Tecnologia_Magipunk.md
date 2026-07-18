@@ -57,7 +57,7 @@ Ainda não foi estabelecido:
 ### Descrição
 
 - São pequenos espelhos individuais, um equivalente funcional ao telefone celular.
-- Item comum que toda a população provavelmente possui.
+- Uso confirmado para a família real. A abrangência entre a população não foi definida.
 
 ### Funções conhecidas
 
@@ -251,7 +251,7 @@ Ainda não definido:
 
 ## Iluminação
 
-INDEFINIDO.
+Cogumelos luminosos são utilizados como iluminação natural na capital. Outros sistemas permanecem INDEFINIDOS.
 
 ---
 

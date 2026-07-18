@@ -240,6 +240,7 @@ Almirante da Frota Real.
 - Foi quem perdeu uma aposta para um marinheiro pouco antes do Capítulo 2.
 - James costuma chamá-lo de "pirralho" apesar de Harry já comandar toda a Frota.
 - É provavelmente quem mais faz Black rir durante os jantares.
+- No Capítulo 4, comunica a Black o acordo que encerra a greve do elevador de cartas; a reivindicação de sindicato permanece em aberto.
 
 ---
 

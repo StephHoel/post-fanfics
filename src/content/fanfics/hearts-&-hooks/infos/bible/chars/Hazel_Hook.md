@@ -209,6 +209,7 @@ Integra o Conselho da Coroa como representante das forças mágicas.
 
 - Foi Hazel quem comentou com Harriet, no Capítulo 2, que havia algo importante para contar a Black depois do café.
 - Foi ela quem conseguiu recrutar um grifo particularmente teimoso para a Guarda Mágica.
+- No Capítulo 7, verifica por espelho que Black compareceu à consulta e a família aguarda seu retorno para o jantar.
 
 ---
 

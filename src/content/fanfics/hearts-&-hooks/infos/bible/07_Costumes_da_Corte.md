@@ -34,6 +34,8 @@ Registrar os costumes oficiais da Família Real e da corte de Wonderland.
 - Black possui um lugar fixo escolhido por preferência pessoal, e não por sua cadeira de rodas.
 - Demais posições: INDEFINIDAS.
 
+O almoço é menos cerimonioso: cada integrante comparece conforme a agenda e retorna ao trabalho depois de se alimentar.
+
 ---
 
 ## Início das Refeições

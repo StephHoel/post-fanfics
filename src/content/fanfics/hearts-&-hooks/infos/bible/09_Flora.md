@@ -26,6 +26,9 @@ Registrar toda a flora conhecida de Wonderland.
 - Cogumelos Luminosos
   - Presentes na capital.
   - Utilizados como iluminação natural.
+- Árvores ambulantes
+  - Foram observadas na capital negociando os próprios frutos.
+  - Espécie e demais características: INDEFINIDAS.
 - Plantas Inteligentes
   - Já foram observadas plantas capazes de interagir com pessoas.
   - Detalhamento: INDEFINIDO.

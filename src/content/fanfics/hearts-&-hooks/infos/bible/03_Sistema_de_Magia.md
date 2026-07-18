@@ -164,11 +164,12 @@ Ainda não foi estabelecido quais encantamentos específicos auxiliam cartógraf
 
 ## Magia Médica
 
-INDEFINIDO.
+- Existe uma ala médica no Castelo de Copas, onde o doutor Alder acompanha Black desde seu nascimento
+- Pomadas alquímicas podem relaxar músculos, e exercícios foram recomendados para evitar enrijecimento das pernas de Black
 
 Ainda não foi estabelecido:
 
-- capacidade de cura;
+- capacidade de cura mágica;
 - limites;
 - hospitais;
 - especialistas.

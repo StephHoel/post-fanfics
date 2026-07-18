@@ -147,6 +147,7 @@ Chefe da Guarda Real.
 - Apesar das diferenças de personalidade, parecem entender uma à outra sem necessidade de muitas palavras.
 - É extremamente protetora.
 - Jamais permite que alguém trate Black com condescendência.
+- Foi designada para escoltar pessoalmente as saídas externas de Black durante o remapeamento do castelo e da capital.
 
 ---
 

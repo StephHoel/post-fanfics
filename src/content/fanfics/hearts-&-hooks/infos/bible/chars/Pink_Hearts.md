@@ -157,7 +157,7 @@ Nesta AU:
 
 ## Animal de Companhia
 
-- Espécie: Coelho Branco.
+- Espécie: Filhote do Coelho Branco.
 - Nome: INDEFINIDO.
 
 ---

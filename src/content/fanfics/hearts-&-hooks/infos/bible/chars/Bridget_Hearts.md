@@ -120,6 +120,7 @@ Rainha de Wonderland.
 - Nomear comandantes.
 - Promulgar decretos.
 - Representar Wonderland.
+- Receber, no próximo mês, delegações confirmadas de pelo menos seis reinos para uma cúpula diplomática.
 
 ---
 

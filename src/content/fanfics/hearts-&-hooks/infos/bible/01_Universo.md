@@ -282,6 +282,8 @@ Quando Bridget e James estão simultaneamente no castelo, toda a família partic
 
 ## Continuidade Atual
 
+> Atualização: a narrativa alcançou o Capítulo 7. Para os acontecimentos posteriores ao Capítulo 4, consultar `12_Linha_do_Tempo.md` e `11_Continuidade.md`.
+
 Capítulo 1
 
 - Introdução de Black.
@@ -303,6 +305,8 @@ Capítulo 4
 ---
 
 ## Informações Pendentes
+
+- Identidade e objetivos das delegações da cúpula diplomática.
 
 - História de Wonderland.
 - Economia.

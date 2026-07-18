@@ -238,11 +238,11 @@ Exemplos vistos:
 
 ## Diplomacia
 
-INDEFINIDA.
+No próximo mês, Wonderland receberá delegações confirmadas de pelo menos seis reinos para uma cúpula diplomática.
 
 Ainda não foi definido:
 
-- países vizinhos;
+- identidade dos reinos e países vizinhos;
 - embaixadas;
 - tratados.
 

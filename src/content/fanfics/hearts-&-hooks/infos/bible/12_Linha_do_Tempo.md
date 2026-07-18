@@ -105,6 +105,26 @@ Nenhum.
 
 ---
 
+## Capítulo 5 — Um Almoço Entre Coroas e Pergaminhos
+
+- Red, Harriet, Pink e CJ identificam que Black está cansada e com dores nas pernas mais intensas.
+- Pink oferece um bracelete experimental de sustentação muscular; Black recusa por falta de testes suficientes.
+- A Rainha convoca Black ao gabinete.
+
+## Capítulo 6 — Entre a Rainha e a Mãe
+
+- Bridget determina que Black retome imediatamente as consultas com o doutor Alder.
+- É anunciada uma cúpula diplomática para o próximo mês, com delegações confirmadas de pelo menos seis reinos.
+- Black coordenará o remapeamento do Castelo de Copas e da capital, com dois aprendizes do Ateliê.
+- Red é designada para escoltar pessoalmente as saídas externas de Black ligadas à missão.
+
+## Capítulo 7 — Ecos de Cuidado
+
+- Black conclui e envia à Rainha o mapa técnico da Floresta dos Sussurros.
+- O doutor Alder registra dores diárias nas pernas e recomenda pomadas para relaxamento muscular e exercícios para evitar enrijecimento.
+
+---
+
 ## Eventos Futuros
 
 Reservado para atualização conforme novos capítulos forem escritos.

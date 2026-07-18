@@ -18,7 +18,7 @@ Sempre que um capítulo revelar uma nova informação permanente, este documento
 
 Capítulo Atual
 
-Capítulo 4
+Capítulo 7
 
 ---
 
@@ -125,6 +125,11 @@ Até o momento não ocorreu salto temporal.
 ✔ Black participa oficialmente do Conselho.
 ✔ A geografia muda naturalmente.
 ✔ Magia provoca fadiga.
+
+✔ Black concluiu o mapa técnico da Floresta dos Sussurros; a causa das mudanças permanece indefinida.
+✔ Black retomou o acompanhamento com o doutor Alder. Foram recomendadas pomadas e exercícios para as pernas.
+✔ No próximo mês, Wonderland receberá delegações confirmadas de pelo menos seis reinos para uma cúpula diplomática.
+✔ Black coordenará o remapeamento do Castelo de Copas e da capital, com dois aprendizes; Red fará a escolta nas saídas externas.
 
 ## Relações Confirmadas
 

@@ -6,6 +6,7 @@ Versão 1.0
 
 ## A
 
+- Ala Médica: Setor do Castelo de Copas onde Black é acompanhada pelo doutor Alder.
 - Ateliê Real de Cartografia: Centro responsável pela produção e atualização dos mapas oficiais do reino.
 
 ---
@@ -60,6 +61,7 @@ Versão 1.0
 
 - Magipunk: Tecnologia baseada em magia em vez de eletricidade.
 - Majestade: Tratamento oficial da Rainha.
+- Mapa técnico: mapa destinado a exploradores, patrulheiros e estrategistas, com símbolos padronizados, escalas e anotações operacionais.
 
 ---
 

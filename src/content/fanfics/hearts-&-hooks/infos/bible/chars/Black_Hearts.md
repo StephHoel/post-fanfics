@@ -58,6 +58,7 @@ Versão 1.0
 - Na idade atual: utiliza cadeira de rodas para toda locomoção.
 - Ela possui autonomia para praticamente todas as atividades do cotidiano.
 - Recebe auxílio apenas em atividades que exigem grande esforço físico.
+- Sofre dores diárias nas pernas, intensificadas nas semanas que antecedem o Capítulo 7. O doutor Alder recomendou pomadas e exercícios; diagnóstico e prognóstico não foram definidos.
 
 ### Necessita de auxílio para
 
@@ -154,6 +155,7 @@ São responsáveis apenas pelos cuidados pessoais. Não interferem em seu trabal
 - Auxiliar decisões estratégicas.
 - Estudar novas rotas.
 - Produzir mapas oficiais.
+- Coordenar o remapeamento do Castelo de Copas e da capital antes da cúpula diplomática do próximo mês, com apoio de dois aprendizes.
 
 ---
 

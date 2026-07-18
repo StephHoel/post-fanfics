@@ -256,6 +256,8 @@ Permanece compatível com qualquer habilidade canônica futura.
 - Mesmo sendo extremamente séria, possui um humor bastante refinado.
 - É uma das poucas pessoas capazes de discutir política com Bridget em pé de igualdade.
 - Seu sorriso é raro o suficiente para que os irmãos percebam imediatamente quando ela está verdadeiramente satisfeita.
+- No Capítulo 5, aquece o próprio chá por magia.
+- Nos Capítulos 5 a 7, atua na rede de apoio para que Black retome o acompanhamento médico.
 
 ---
 

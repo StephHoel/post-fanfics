@@ -171,7 +171,14 @@ Datas: INDEFINIDAS.
 
 ## Linha Temporal
 
-INDEFINIDA
+### Capítulos 5 a 7
+
+- Black conclui o mapa técnico da Floresta dos Sussurros; a causa das mudanças permanece não definida.
+- A piora das dores nas pernas leva Bridget a determinar o retorno imediato de Black ao acompanhamento médico.
+- Uma cúpula diplomática ocorrerá no próximo mês, com delegações confirmadas de pelo menos seis reinos.
+- Black coordenará o remapeamento do Castelo de Copas e da capital, com dois aprendizes; Red fará a escolta nas saídas externas.
+
+Não há calendário absoluto definido. A narrativa alcançou o Capítulo 7 e os acontecimentos seguem consecutivos, sem salto temporal declarado.
 
 Ainda será criada uma cronologia absoluta.
 
@@ -194,6 +201,8 @@ INDEFINIDO
 Conhecidas:
 
 - Mudanças espontâneas na geografia.
+
+No período narrado, a Floresta dos Sussurros mudou pela terceira vez no semestre. Black formulou a hipótese de que o terreno ao redor se reorganiza com ela; a causa não foi confirmada.
 
 Ainda não foi definido:
 
