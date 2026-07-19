@@ -46,8 +46,8 @@ No cânone, é irmã mais nova de Harriet, Harry e CJ Hook.
 ## Dados Gerais
 
 - Idade: 21 anos.
-- Estado civil: INDEFINIDO.
 - Residência: Castelo de Copas.
+- Estado civil: Solteira.
 
 ---
 
@@ -217,6 +217,20 @@ Integra o Conselho da Coroa como representante das forças mágicas.
 
 - No cânone é uma jovem VK competitiva.
 - Na fanfic tornou-se uma oficial militar altamente respeitada e uma das principais líderes de Wonderland.
+
+---
+
+## Relacionamentos Amorosos
+
+### Luis Madrigal (filho de Luisa Madrigal)
+
+Hazel está conhecendo Luis ainda.
+
+Enquanto Hazel é extremamente inteligente e reservada, Luis é caloroso, paciente e absurdamente prestativo. Ele não tenta "consertar" Hazel, apenas acompanha seu ritmo. É uma relação lenta, cheia de caminhadas, bibliotecas.
+
+### Relacionamentos anteriores
+
+- Nenhum relacionamento sério. Apenas uma paixão antiga por Jane (filha da Fada Madrinha), nunca correspondida.
 
 ---
 

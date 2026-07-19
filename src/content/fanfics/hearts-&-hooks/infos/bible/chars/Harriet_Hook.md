@@ -48,7 +48,7 @@ Nos acontecimentos mais recentes da franquia, Harriet começa a romper com o leg
 - Idade: 25 anos.
 - Data de nascimento: INDEFINIDA.
 - Residência: Castelo de Copas.
-- Estado civil: INDEFINIDO.
+- Estado civil: Solteira.
 
 ---
 
@@ -280,6 +280,24 @@ Permanece compatível com qualquer habilidade canônica futura.
 
 ---
 
+## Relacionamentos Amorosos
+
+### Opal (filha de Mama Odie)
+
+O interesse atual de Harriet, Opal, é alguém extremamente intuitiva, misteriosa e espiritualmente forte. Elas combinam porque Harriet é extremamente racional e estratégica.
+
+O relacionamento ainda não começou. Estão se aproximando, trocando cartas e se conhecendo.
+
+### Evangeline (filha de Tiana e Naveen)
+
+Grande ex com quem teve um namoro de quase três anos. Eram o casal perfeito aos olhos de Auradon. O namoro terminou quando Harriet priorizou deveres familiares e Evangeline decidiu viajar representando Maldonia. Ambas continuam respeitando uma à outra, mas existe uma grande mágoa.
+
+### Relacionamentos anteriores
+
+- Jasper Darling (neto de Wendy Darling). Namoro adolescente, tranquilo, que terminou naturalmente.
+
+---
+
 ## Informações Ainda Indefinidas
 
 - Aniversário.
@@ -291,5 +309,4 @@ Permanece compatível com qualquer habilidade canônica futura.
 - Caligrafia.
 - Perfume.
 - Brasão pessoal.
-- Possível arco romântico.
 - Frases marcantes.

@@ -48,8 +48,8 @@ Sua personalidade permanece muito próxima da versão oficial.
 ## Dados Gerais
 
 - Idade: 17 anos.
-- Estado civil: INDEFINIDO.
 - Residência: Castelo de Copas.
+- Estado civil: Solteira.
 
 ---
 
@@ -252,6 +252,18 @@ Pode acompanhar missões de reconhecimento quando necessário.
 
 - No cânone: É uma pirata aventureira que busca seguir o legado do Capitão Hook.
 - Na fanfic: Canaliza esse espírito para exploração científica e geográfica. Trabalha oficialmente para a Coroa. É irmã gêmea de Pink Hearts.
+
+---
+
+## Relacionamentos Amorosos
+
+### Aziz (filho de Aladdin e Jasmine)
+
+Os dois vivem competindo: corridas, parkour, esgrima, debate. Todo mundo percebe que gostam um do outro, mas eles negam até para si mesmos.
+
+### Relacionamentos anteriores
+
+- Freddie Facilier. Relacionamento curtíssimo. Viraram rivais amigáveis.
 
 ---
 

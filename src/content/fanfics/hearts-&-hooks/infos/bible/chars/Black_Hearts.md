@@ -292,6 +292,22 @@ São responsáveis apenas pelos cuidados pessoais. Não interferem em seu trabal
 
 ---
 
+## Relacionamentos Amorosos
+
+### Nolan (filho de Milo Thatch e Kida) / Interesse futuro
+
+Nolan aparece pela primeira vez na cúpula dos reinos junto de seus pais (Atlantis). Ele fica muito interessado em Black, mas não tem coragem de falar diretamente com ela. Black percebe, mas também não fala com ele. Depois da cúpula, começam a trocar cartas (Nolan manda a primeira) e o relacionamento se desenvolve a partir daí.
+
+Nolan é arqueólogo, linguista e especialista em civilizações perdidas. Enquanto Black desenha mapas... Nolan tenta entender o que existia antes deles.
+
+Os dois poderiam passar horas discutindo geografia, história, magia e arquitetura. Seria um romance extremamente lento. Quase todo construído através de amizade.
+
+### Relacionamentos anteriores
+
+- Robin Hood Jr. (Robbie Hood). Black se interessou por Robbie quando tinham quinze anos. Ele era gentil consigo e ela nunca teve coragem de dizer o que sentia. Ele jamais percebeu. Hoje continuam amigos.
+
+---
+
 ## Informações Ainda Indefinidas
 
 Sobrenome oficial utilizado em documentos.

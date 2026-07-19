@@ -41,6 +41,7 @@ Nesta AU:
 
 - Idade: 17 anos.
 - Gêmea de CJ.
+- Estado Civil: Namorando
 
 ---
 
@@ -191,6 +192,18 @@ Nesta AU:
 ## Diferenças em relação ao Cânone
 
 O cânone ainda revelou muito pouco sobre Pink além de sua existência como irmã de Red na nova linha do tempo. Na fanfic, ela foi desenvolvida como a principal inventora e alquimista de Wonderland, sendo uma das responsáveis pela evolução tecnológica magipunk do reino.
+
+---
+
+## Relacionamentos Amorosos
+
+### Ruby (filha de Rapunzel e Flynn Rider)
+
+Ruby é criativa, otimista, artística e combina perfeitamente com a energia leve de Pink. São o tipo de casal que faz piqueniques, pinta quadros e troca cartas.
+
+### Relacionamentos anteriores
+
+- Nenhum
 
 ---
 

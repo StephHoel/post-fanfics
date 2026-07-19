@@ -42,6 +42,7 @@ Nesta AU:
 
 - Idade: 19 anos
 - Gêmea de Black
+- Estado Civil: Namorando
 
 ---
 
@@ -181,6 +182,22 @@ Chefe da Guarda Real.
 
 - No cânone, Red é uma adolescente rebelde.
 - Na fanfic, amadureceu como comandante militar, mantendo apenas parte de seu espírito aventureiro.
+
+---
+
+## Relacionamentos Amorosos
+
+### Chloe Charming
+
+Red é impulsiva e precisa de alguém que saiba enfrentá-la.
+
+Chloe equilibra Red. Red tira Chloe da zona de conforto.
+
+São conhecidas por discutir em público e fazer as pazes cinco minutos depois.
+
+### Relacionamentos anteriores
+
+- Ace (filho de Hércules). Relacionamento intenso de poucos meses. Viraram amigos.
 
 ---
 

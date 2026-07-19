@@ -46,7 +46,7 @@ Harry Hook foi introduzido em *Descendants 2* como o único filho homem do Capit
 
 Idade: 23 anos.
 Residência: Castelo de Copas. Também permanece longos períodos embarcado.
-Estado civil: INDEFINIDO.
+Estado civil: Namorando.
 
 ---
 
@@ -251,6 +251,18 @@ Almirante da Frota Real.
   - Nunca foi criminoso.
   - É Almirante de Wonderland.
   - Utiliza suas habilidades para proteger o reino.
+
+---
+
+## Relacionamentos Amorosos
+
+### Uma (filha de Úrsula)
+
+Ambos são capitães natos que fazem poucas demonstrações públicas de afeto. Eles possuem muita confiança e muito respeito entre si. Apesar disso, suas brigas são intensas e a química é absurda.
+
+### Relacionamentos anteriores
+
+- Gil (filho de Gaston). Durou alguns meses, mas Harry percebeu que eram muito melhores como amigos.
 
 ---
 
