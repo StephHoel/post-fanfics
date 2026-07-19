@@ -1,4 +1,8 @@
+Agrabah
+Arendelle
 Brenners
+Charmington
+Cinderellasburg
 Cozmo
 Crissea
 Eletrocinese
@@ -10,10 +14,12 @@ Kithain
 Kitsune
 kitsunes
 Magipunk
+Maldonia
 Metamorfo
 Metamorfos
 microencantamentos
 Neovila
+Neverland
 Nocker
 Nockers
 Seelie
