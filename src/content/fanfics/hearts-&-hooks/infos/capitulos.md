@@ -2289,3 +2289,335 @@ Mas ele já parecia muito satisfeito com o próprio novo cargo.
 Um a um, seguimos pelos corredores do Castelo de Copas, cada qual em direção aos seus próprios afazeres. O reino aguardava mapas, patrulhas, aulas, recrutas, decisões e reuniões.
 
 E, entre todas aquelas responsabilidades, um jantar especial começava a tomar forma.
+
+---
+
+## Capítulo 9 - À Mesa do Conselho
+
+Em dias de reunião do conselho, o Castelo de Copas adquiria um ritmo diferente pouco antes do meio-dia.
+
+Os corredores normalmente ocupados por funcionários, mensageiros e oficiais pareciam convergir para longe de uma sala específica. Eu observava esse movimento enquanto minha cadeira deslizava suavemente pelo piso encerado, conduzida por mim mesma através das largas galerias iluminadas pelas janelas arqueadas.
+
+O aroma do almoço começava a se espalhar pelo castelo, misturando pão recém-assado, ervas frescas, carne assada e o perfume adocicado de tortas que certamente não sobreviveriam à reunião.
+
+Em certo momento, Ink pulou do meu colo e correu à minha frente. Parei a cadeira, curiosa por seu movimento repentino. Meu pequeno arganaz não descia do meu colo sem motivo e não demorou muito para que eu o descobrisse. Ele desapareceu atrás de uma armadura para reaparecer alguns segundos depois segurando uma pena enorme no focinho.
+
+— Uma pena? Sério? — perguntei confusa.
+
+Ele subiu no meu colo novamente, com sua nova pena entre as patas e claramente feliz com a aquisição. Ink deitou-se sobre a pena e esperou que eu continuasse o caminho.
+
+Sorri sozinha. Aquela criaturinha ainda era capaz de me surpreender, mesmo depois de anos.
+
+Pouco depois, continuei o caminho, ainda rindo.
+
+Ao chegar diante das grandes portas duplas da Sala do Conselho, dois funcionários a abriram para mim.
+
+A sala era um dos ambientes mais antigos do castelo. Seu teto alto era sustentado por grossas vigas de madeira escura, entrelaçadas por discretos encantamentos que mantinham o ambiente sempre iluminado por uma luz suave, mesmo em dias nublados. As paredes eram quase inteiramente cobertas por estantes e painéis onde mapas antigos dividiam espaço com versões mais recentes, plantas arquitetônicas, cartas náuticas, diagramas de fortalezas e documentos organizados em nichos cuidadosamente identificados.
+
+Na parede ao fundo, ocupando praticamente toda sua extensão, encontrava-se um enorme mapa de Wonderland, que era constantemente atualizado. Pequenos alfinetes encantados moviam-se lentamente sobre sua superfície indicando caravanas, postos militares, embarcações e fenômenos mágicos conhecidos.
+
+No centro da sala repousava a longa mesa oval do conselho com assentos específicos para cada um dos membros. Mamãe e papai tinham tronos quase idênticos, a única diferença era que o assento da rainha era mais alto e ornamentado. Meus irmãos tinham cadeiras confortáveis para si; Harry, por exemplo, tinha quase uma poltrona de tão grande e espaçoso que era seu assento.
+
+Sobre a mesa já haviam sido distribuídos cadernos, penas, tinteiros, documentos organizados em pequenas pilhas e jarras de água aromatizada.
+
+Próximo às janelas, uma mesa auxiliar estava preparada com o almoço. Havia legumes assados, carnes, peixes, saladas coloridas, frutas, pães ainda quentes, queijos, tortas salgadas e sobremesas cuidadosamente cobertas por redomas de vidro.
+
+Os funcionários terminavam os últimos ajustes enquanto conversavam em voz baixa entre si.
+
+Me posicionei à mesa, tirei os mapas que trazia comigo e os coloquei junto aos demais documentos enquanto esperava os demais chegarem.
+
+Red entrou primeiro, ainda usando o uniforme da Guarda Real. Seus cabelos vermelhos estavam levemente bagunçados pelo treinamento da manhã, e ela carregava um grosso maço de relatórios debaixo do braço.
+
+Minha gêmea sorriu ao me ver, relaxando sua postura por alguns segundos.
+
+— Olha só quem chegou cedo. — comentou enquanto deixava os relatórios sobre a mesa.
+
+Antes que eu pudesse responder, Harriet entrou na sala com seus pergaminhos nos braços enquanto anotava algo no seu bloco com outro pergaminho flutuando a sua frente.
+
+As reuniões do Pequeno Conselho havia discussões, divergências e decisões difíceis, mas antes de qualquer cargo existia uma família. E sempre chegávamos a conclusões favoráveis para o reino.
+
+Harry chegou como sempre, como se as ondas o acompanhasse onde quer que fosse. O cheiro de maresia chegava segundos antes dele.
+
+— Espero sinceramente que ninguém tenha marcado mais de cinquenta decisões administrativas para hoje.
+
+— Só quarenta e nove. — Harriet respondeu sem levantar os olhos dos próprios documentos.
+
+Harry fez uma expressão teatral de derrota.
+
+— Que alívio.
+
+Hazel entrou logo atrás, retirando as luvas de couro enquanto caminhava. Seus cabelos castanhos estavam presos em um coque firme e ela parecia ainda concentrada em algum problema que permanecia no campo de treinamento.
+
+Mamãe entrou por último ao lado de papai. Os dois conversavam em voz baixa até ocuparem seus lugares. Mesmo após tantos anos de casamento, ainda havia uma leveza natural entre eles que chamava atenção.
+
+James Hook fez questão de ajustar o trono da rainha antes de sentar-se ao lado dela.
+
+— Muito bem. — Bridget sorriu para todos. — Vamos começar antes que Harry acabe com todas as tortinhas.
+
+Todos olharam automaticamente para o almirante da frota naval, que olhava para a mesa auxiliar a procura das tortinhas que tanto gostava.
+
+Harriet abriu seu caderno de atas, anotando o cabeçalho da ata com sua caligrafia impecável de futura rainha.
+
+— Registro iniciado.
+
+— Primeiro assunto do dia: façam seus pratos. As reuniões do conselho são os únicos dias em que posso confirmar que meus filhos se alimentam adequadamente no almoço. — disse a rainha com um leve humor na voz.
+
+Um funcionário entrou com os pratos de meus pais, posicionando-os na frente deles. Enquanto isso, eu e meus irmãos nos afastamos da mesa para montarmos nossos pratos funcionais.
+
+Usávamos sempre a ordem de sucessão naqueles casos. Ou seja, Harriet se serviu primeiro. Depois Harry, Hazel e Red, antes de mim. Na minha vez, Oliver, um funcionário que sempre ficava por perto para auxiliar, pegou meu prato aguardando minhas instruções.
+
+Fiz minha cadeira flutuar poucos centímetros do chão, para conseguir ver melhor quais alimentos eu gostaria de comer. Por fim, os escolhi:
+
+— Um pouco do peixe com ervas, legumes ao forno e arroz com castanhas, por favor. — pedi e o vi montar meu prato.
+
+Oliver me acompanhou até a mesa, deixou meu prato à minha frente e então começou a servir chá para todos. Cada um tinha um gosto diferente: uns bebiam puro, outros com um pouco de leite ou açúcar. Eu preferia puro e sem açúcar, quase como uma água saborizada.
+
+Pink e Calista geralmente se serviriam depois de mim, mas elas ainda eram muito novas para fazerem parte do pequeno conselho.
+
+Depois de algumas garfadas em silêncio, a rainha bateu sua faca contra a xícara de chá e tomou a palavra.
+
+— Harriet, como Primeira-Ministra e Herdeira do Trono de Wonderland, qual a situação administrativa geral do reino? — perguntou Bridget, com sua voz impostada de rainha.
+
+O bloco ao lado de Harriet começou a tomar notas automaticamente, provavelmente pela magia de minha irmã para fazer mais de uma atividade ao mesmo tempo.
+
+A primogênita limpou sua boca com o guardanapo vermelho antes de consultar rapidamente seus papéis para responder à Rainha de Copas.
+
+— A arrecadação permanece dentro do esperado para este trimestre. Tivemos aumento nas atividades comerciais da capital graças às novas rotas abertas para Auradon e para Neverland. Também concluímos a reforma de três escolas municipais e autorizamos recursos para manutenção dos aquedutos da região oeste.
+
+Enquanto ela falava, a pena anotava tudo no bloco e eu continuava a mastigar minha refeição. Em geral, eu era a última a falar, quando falava naquelas reuniões.
+
+— As filas nos cartórios diminuíram após a implantação do sistema de espelhos administrativos. Ainda há dificuldades em alguns distritos mais afastados, mas os relatórios indicam melhora consistente. — continuou Harriet.
+
+Meu pai assentiu.
+
+— Excelente! — papai exclamou. Aquela tinha sido uma sugestão pessoal dele por causa dos recorrentes problemas burocráticos nos portos.
+
+— Também tivemos redução nas reclamações relacionadas ao abastecimento de energia mágica residencial. — antes que pudesse continuar, Harriet exclamou: — Ink!
+
+O pequeno arganaz estava correndo com um pedaço de frango no focinho para longe de minha irmã, pulando por cima de documentos como se fossem seus obstáculos particulares.
+
+Estendi a mão para o animal antes que ele voasse mesa afora.
+
+— Você sabe que não pode roubar comida do prato dos outros. — murmurei para ele, colocando-o no meu colo.
+
+— Black, eu sei que Ink te ajuda na cartografia, mas se ele continuar roubando comida do meu prato, vou banir ele das refeições. — Harriet disse me olhando. — Acho que você não quer ficar com a gata de Red ou com minha coruja mensageira.
+
+Minha irmã estava realmente ameaçando um pequeno arganaz por causa de um pedaço de frango. Eu estava tentando controlar a risada. Harry fingia muito mal que seu prato era mais interessante. Red e Hazel pareciam indignadas. Mas foi mamãe que quebrou a tensão.
+
+— Não faça ameaças que não vai cumprir, Harriet. — a rainha falou, em seu tom neutro e baixo, como sempre.
+
+— Certo, majestade. Continuando... O único ponto que exige atenção imediata é o aumento da demanda cartográfica. As mudanças recentes nas terras de Wonderland estão sobrecarregando os cartógrafos atuais e mestre Rowan fez requerimento de novos membros duas vezes nas últimas seis semanas.
+
+Meu olhar levantou automaticamente do meu prato. Eu não sabia daqueles requerimentos, pensava que estávamos dando conta do trabalho com quem tínhamos disponível.
+
+— Abram uma seleção e façam o treinamento. O orçamento prevê quantos novos membros? — Bridget perguntou, tomando um gole de seu chá de rosas.
+
+— Seis cartógrafos, quatro desenhistas técnicos e dois auxiliares de levantamento.
+
+— Isso é melhor do que eu esperava. — comentei baixo, mas todos ouviram.
+
+— Relatório da administração geral encerrado. — Harriet concluiu, olhando para nós pouco antes de olhar para o caderno de notas que preenchia as últimas palavras de seu relatório.
+
+— Harry, como segundo na linha de sucessão e Almirante das Forças Navais, qual a situação atual da nossa Marinha?
+
+Harry limpou a boca e as mãos antes de puxar um relatório dos papéis empilhados à sua frente.
+
+— A Marinha concluiu os testes das novas rotas costeiras, sem atividade pirata hostil registrada nas últimas semanas. — comentou ele, passando os olhos pelo papel e então olhando diretamente para a mãe.
+
+— Isso me deixa desconfiado. — papai arqueou uma sobrancelha com a fala.
+
+— Também achei estranho. Piratas não costumam tirar férias. — Harry riu. — A única grande atividade pirata registrada foi a visita de minha noiva, com quem temos acordo de cooperação mútua.
+
+Todos sorriram discretamente. Papai ainda não conhecia a noiva de Harry, apenas sabia histórias dela.
+
+— Hazel, terceira na linha de sucessão e Capitã da Guarda Mágica, qual a situação atual?
+
+— Os batalhões mágicos permanecem dentro da normalidade. Estou treinando os recrutas com previsão de terminar a tempo da cúpula. Tivemos duas ocorrências envolvendo criaturas mágicas na região sul, ambas resolvidas sem vítimas. — Hazel relatou, depois de engolir uma tortinha que havia levantado para buscar.
+
+— Red, quarta na linha de sucessão e Capitã da Guarda Real, qual a situação atual?
+
+— Concluímos a substituição dos equipamentos das patrulhas da capital e teremos a formatura dos novos oficiais em alguns dias. A capital e o castelo continuam sem ocorrências relevantes nas últimas semanas.
+
+Enquanto eles falavam sobre a patrulha, suprimentos e cronogramas, me mantive comendo em silêncio e observando. Ao terminar meu prato, Oliver o recolheu, deixando um espaço vazio à minha frente que logo foi ocupado por um bloquinho de anotações que eu sempre carregava comigo.
+
+Ergui Ink de volta à mesa, mas mantive-o por perto para não gerar outro conflito desnecessário.
+
+Puxei um lápis do bolso e comecei a desenhar despretensiosamente. Primeiro uma linha, depois outra. Uma linha virou uma escadaria, outra tornou-se corredores. Aos poucos a planta baixa não oficial do Castelo de Copas ia aparecendo sobre o papel.
+
+Em algum momento, Ink se juntou à mim. Seus rabiscos eram aleatórios, sem conexão com a forma real do castelo, mesmo assim deixei que se ocupasse também.
+
+Quando percebi que a sala estava silenciosa demais, levantei meu olhar do papel. Todos me olhavam, aguardando. Deviam ter me chamado e eu não havia prestado atenção.
+
+— Black, quinta na linha de sucessão e Cartógrafa Real de Wonderland, qual a situação atual da Floresta dos Sussurros? — a rainha Bridget me olhava com a mesma expressão séria de sempre.
+
+— O mapa técnico da Floresta dos Sussurros está concluído e já foi iniciado a realização do mapa histórico. A floresta parece ter movido não apenas suas fronteiras, como também locais próximos, mas a expedição ainda não retornou com novos relatórios sobre a situação. Encontramos três alterações geográficas desde o último levantamento oficial. Uma trilha deslocou aproximadamente cento e cinquenta metros para leste. Um riacho mudou parcialmente seu curso. Também identificamos uma nova clareira formada por atividade mágica recente.
+
+— Houve uma ocorrência menor nas redondezas, não pensei que estivessem relacionadas. Ou teria compartilhado os relatórios. Te mando o documento assim que chegar no gabinete. — Hazel comentou, preocupada com a conexão que não havia sido detectada anteriormente.
+
+— Obrigada Hazel. Acho que precisaremos de uma nova expedição para que seja entendido o alcance de tamanha mudança, mas farei o pedido pelos meios corretos, caso sejam necessários. — informei, esticando a coluna diante daquela situação delicada. — Quanto ao remapeamento do castelo e da capital, começarei esta tarde. Os auxiliares já foram selecionados e mestre Rowan já os liberou de suas atividades para me acompanharem. A previsão continua em três semanas.
+
+Vi Harriet anotando a estimativa.
+
+— Dentro do prazo para a chegada das primeiras delegações. — Bridget comentou, satisfeita com minha resposta.
+
+James Hook sorriu discretamente em minha direção.
+
+— Excelente trabalho.
+
+Mesmo sabendo que aquele elogio era para todos os filhos, senti minhas bochechas aquecerem. Ainda me surpreendia com os elogios dele. Não porque fossem raros, mas porque sempre pareciam ser sinceros.
+
+A conversa avançou para outros assuntos administrativos. Houve a aprovação oficial da ampliação da equipe técnica da Cartografia Real de forma unânime. Também falaram de outra decisões menores, como manutenção de pontes, estoques médicos, reforma de estradas... Era a parte mais entediante da reunião do conselho.
+
+Quando a última pauta orçamentária foi aprovada, Harriet lentamente fechou o caderno da ata e parou de escrever em seu bloco de notas.
+
+— Assuntos administrativos concluídos. — a Primeira-Ministra declarou.
+
+Bridget pousou sua xícara sobre a mesa e seu semblante tornou-se um pouco mais sério.
+
+— Passemos ao próximo tema do dia. — a rainha disse e trocou um olhar com James antes de continuar. — A Cúpula das Nações Mágicas.
+
+---
+
+## Capítulo 10 - Cúpula das Nações Mágicas
+
+Bridget pousou sua xícara sobre a mesa e seu semblante tornou-se um pouco mais sério.
+
+— Passemos ao próximo tema do dia. — a rainha disse e trocou um olhar com James antes de continuar. — A Cúpula das Nações Mágicas.
+
+O ambiente mudou quase imperceptivelmente. Todos ali pareciam estar tão cientes quanto eu daquele acontecimento. Mesmo sem saber detalhes, era evidente sua importância para Wonderland.
+
+As brincadeiras cessaram por conta própria. Harry apoiou os antebraços sobre a mesa, Hazel fechou a pasta dos relatórios mágicos e Red empurrou a xícara vazia alguns centímetros para frente. Até Ink acomodou-se no meu ombro, enrolando a cauda em torno do meu pescoço, enquanto observava a todos com curiosidade.
+
+Mamãe abriu uma pasta fina de couro vermelho. O assunto vinha sendo preparado havia muito tempo, o que reforçava o tamanho de sua importância.
+
+Ela retirou uma folha cuidadosamente organizada, escrita em sua própria caligrafia.
+
+— O primeiro tópico são as confirmações. Recebemos algumas confirmações prévias. — ouvi-a falar, observando seus movimentos.
+
+O bloco de notas de Harriet voltou a ser preenchido magicamente, conforme a rainha falava, e o ruído da pena arranhando o papel era audível.
+
+— Até esta manhã, seis reinos enviaram suas confirmações de presença oficialmente. São eles: Agrabah. — Bridget começou a nomear.
+
+Mas papai a interrompeu brevemente com um comentário:
+
+— Jasmine respondeu ainda na semana passada.
+
+Minha mãe continuou:
+
+— Cinderellasburg, Neverland.
+
+Harry sorriu.
+
+— Não esperava outra coisa. — ele lançou um olhar divertido para nosso pai. — Seria um desastre diplomático se Neverland recusasse um convite assinado por uma Hook.
+
+Meu pai riu baixo.
+
+— Concordo.
+
+Bridget prosseguiu.
+
+— Camelot.
+
+Hazel cruzou as mãos sobre a mesa.
+
+— Faz sentido. Eles têm enorme interesse em protocolos militares envolvendo magia.
+
+— Monte Olimpo.
+
+Red ergueu levemente as sobrancelhas.
+
+— Isso eu confesso que me surpreendeu.
+
+— Também me surpreendeu. — respondeu minha mãe. — Mas demonstraram bastante entusiasmo com a proposta.
+
+Ela passou para o último nome.
+
+— E Arendelle.
+
+Meu olhar voltou-se para mamãe imediatamente.
+
+Arendelle. Era difícil pensar naquele reino sem lembrar da Rainha Elsa.
+
+Mesmo em Wonderland, sua história era conhecida. Não apenas pelo domínio extraordinário sobre a magia, mas pela maneira como transformara a relação entre governantes e usuários de poderes mágicos.
+
+— A confirmação veio acompanhada de uma carta bastante cordial da Rainha Anna. — explicou Bridget. — Demonstraram interesse especial nas discussões sobre cooperação internacional.
+
+Cada confirmação foi registrada cuidadosamente e por alguns instantes, apenas o som da pena deslizando sobre o papel preenchia a sala.
+
+Então mamãe respirou fundo, antes de continuar.
+
+— Ainda aguardamos resposta de outros reinos. — ela consultou novamente o documento em suas mãos. — Seaside, Eden, Corona, Sherwood, Notre Dame, Auradon... — fez uma pequena pausa, olhando para Harriet. — E Bayou d'Orleans.
+
+O silêncio que se seguiu foi diferente dos outros. Não era pesado, era reflexivo. Nós sabíamos o que aquela hesitação significava.
+
+Harriet escolheu as palavras com cuidado.
+
+— Sobre Bayou d'Orleans... Existe uma possibilidade de não comparecerem.
+
+Meu pai apoiou a mão na mesa junto do gancho.
+
+— Por causa da situação com a Princesa Evangeline?
+
+Harriet assentiu lentamente.
+
+— Sim.
+
+Seu tom permaneceu neutro, quase protocolar.
+
+— O nosso término pode se tornar um problema diplomático, de certa forma. Não estou confortável em confirmar que não há ressentimentos da parte de Bayou d'Orleans para com Wonderland.
+
+Red fez uma leve careta, quase divertida com o problema que a herdeira havia causado.
+
+— Namoros e seus problemas internacionais.
+
+— Como se você não pudesse passar por isso também. — repreendeu Harriet, sem um pingo de remorso por usar a própria irmã.
+
+— Meu quase noivado com a herdeira dos Charming está muito bem, obrigada.
+
+Hazel, rindo e ignorando Red, perguntou:
+
+— Mas isso não afetou nossos acordos, afetou?
+
+— Não. — Harriet respondeu, curta.
+
+Minha mãe permaneceu alguns segundos pensativa antes de afirmar:
+
+— Manteremos o convite aberto. Bayou d'Orleans não tem apenas a Princesa Evangeline como diplomata.
+
+Todos assentimos. Era irracional excluir um reino por causa de questões pessoais. Além disso, se a proposta da cúpula fosse realmente tão importante quanto eu imaginava, seria justamente o tipo de iniciativa capaz de superar atritos diplomáticos.
+
+Bridget abaixou delicadamente a lista de confirmações. Seu olhar percorreu cada um de nós e vi uma ligeira mudança em sua postura enquanto ela apoiava ambas as mãos sobre a mesa.
+
+— Quero que saibam o porque somos nós a organizar esta conferência.
+
+A sala permaneceu completamente silenciosa. Lá fora, uma rajada de vento fez alguns galhos roçarem contra uma das janelas altas, mas ninguém prestava atenção.
+
+— Durante décadas, os Reinos Unidos de Auradon teve seu uso de magia restringido por Adam. — mamãe continuou, demonstrando sua antipatia pelo antigo rei de Auradon. Ninguém ousou interrompê-la. — Nos últimos anos, entretanto, muita coisa mudou. A Guerra das Rosas chegou ao fim após alguns tratados de paz selados com o rei Ben e a rainha Mal. Um desses tratados selou a liberação do uso da magia de forma gradual, com a implementação de disciplinas na grade curricular. Em contra ponto, abrimos nossa universidade para pesquisadores estudarem nossa magia. Agora, estamos encontrando em uma nova fase onde outros reinos mágicos e não mágicos possam se beneficiar dos conhecimentos mútuos.
+
+Ela fez uma breve pausa para bebericar de seu chá.
+
+— Estamos olhando o progresso. Mas o progresso está nos mostrando um problema que ninguém esperava. Cartógrafos de vários reinos começaram a relatar pequenas mudanças na geografia local, inicialmente sem relações entre si. Mapas antigos deixaram de representar corretamente determinadas regiões.
+
+Se estava acontecendo em outros reinos, a causa não era o que imaginávamos. Não era apenas Wonderland se deslocando sem motivo. Meu coração pareceu desacelerar por um instante. Se tinha motivo, precisávamos descobrir o quanto antes.
+
+Harry franziu a testa, alheio ao meu terror interno.
+
+— Erros de medição?
+
+James balançou a cabeça.
+
+— Foi a primeira hipótese.
+
+Hazel perguntou em seguida:
+
+— Fenômenos mágico-naturais?
+
+— Também foi considerado.
+
+Minha mãe retomou a explicação.
+
+— Os relatos de Wonderland são apenas uma parte dos relatos de todo o mundo. Trilhas mudando de posição, florestas que parecem expandir seus limites, cavernas que não existiam surgindo em levantamentos recentes, portais aparecendo onde nunca existiram, corredores mágicos alterando seus pontos de saída...
+
+Sem perceber, meu olhar caiu sobre os mapas espalhados à minha frente. As anotações da Floresta dos Sussurros com as diferenças que eu havia encontrado. O riacho, a clareira e a trilha deslocada.
+
+Um arrepio percorreu lentamente meus braços. Eu sabia daquelas mudanças, mas até aquele momento acreditava que fossem problemas exclusivos do meu reino. E, segundo o relato da rainha, precisaríamos de todos os reinos conhecidos unidos para resolver o problema em comum.

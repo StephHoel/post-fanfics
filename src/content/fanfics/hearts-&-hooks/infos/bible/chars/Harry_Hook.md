@@ -46,7 +46,7 @@ Harry Hook foi introduzido em *Descendants 2* como o único filho homem do Capit
 
 Idade: 23 anos.
 Residência: Castelo de Copas. Também permanece longos períodos embarcado.
-Estado civil: Namorando.
+Estado civil: Namorando/noivo.
 
 ---
 
