@@ -2807,3 +2807,175 @@ Ruby deu uma risadinha tímida. Quando terminou a pequena trança, inclinou-se a
 — Você que fez.
 
 Fiquei observando de longe por alguns instantes. Elas eram o casal mais fofo da família. Pelo menos enquanto Ruby estivesse ali, Pink não estaria explodindo laboratórios.
+
+---
+
+## Capítulo 12 - O Jantar de Despedida
+
+Assim que Pink ergueu os olhos e me viu parada observando-as a poucos metros de distância, seu rosto imediatamente se iluminou. O ambiente do Grande Salão parecia ganhar cores próprias quando ela sorriu, como se a luz das velas acentuasse o brilho do seu entusiasmo.
+
+— Black! — minha irmã mais nova exclamou vindo em minha direção, puxando sua namorada consigo.
+
+Ruby abriu um sorriso tímido, como todas as vezes em que nos encontrávamos. Havia sempre uma delicadeza contida naquele gesto, como se o mundo lá fora precisasse ser tratado com cuidado.
+
+— Boa noite, Alteza.
+
+— Quantas vezes vou precisar pedir para você me chamar só de Black?
+
+— Muitas. — Ruby respondeu, rindo baixinho. — Ainda parece errado.
+
+Observei a pequena trança colorida cuidadosamente escondida entre os cabelos rosados de minha irmã. O turquesa, o rosa e o lilás se misturavam com a luz amarelada das velas, criando um pequeno detalhe que parecia música em formato de cabelo.
+
+— Ficou bonita. — comentei apontando para a trança.
+
+Ruby corou imediatamente e o rubor subiu suave pelas bochechas em contraste com o tom pálido de sua pele.
+
+— Obrigada...
+
+Pink passou delicadamente os dedos pela mecha multicolorida em seus cabelos. Seus movimentos eram leves, quase afetivos, como se repetisse o gesto para si mesma e para mim.
+
+— Eu disse que ficou perfeita. — a mais nova concordou comigo, rindo abertamente.
+
+Elas trocaram um olhar que deixava claro como aquele relacionamento parecia algo praticamente definitivo, apesar de ainda serem apenas duas adolescentes. Não havia exagero nas demonstrações de carinho, era justamente a simplicidade que chamava a atenção. O jeito como os dedos de Pink descansavam na mão de Ruby dizia mais que qualquer declaração.
+
+Antes que eu pudesse dizer qualquer coisa, Ink saltou do meu ombro para a roupa de Pink, escalando seu vestido de festa até o ombro. O seu corpo pequeno se encaixou perfeitamente na dobra do tecido e a cauda se enrolou como uma fita.
+
+— Oi, Ink. — ela o recebeu automaticamente.
+
+O pequeno arganaz respondeu esfregando a cabeça contra rosto dela, demonstrando o carinho que ele tinha pela humana.
+
+— Acho que ele gosta mais de você do que da Black. — Ruby brincou, rindo.
+
+— Ele é um traidor, isso sim. — respondi, rindo também.
+
+Quando eu ia me afastar das duas, as enormes portas do Grande Salão se abriram novamente. O som do metal nas dobradiças ecoou pela sala, como se estivesse anunciando outra fase daquela noite.
+
+Me virei para ver quem estava entrando. Harriet. Chegava a ser estranho ver minha irmã mais velha sem todos aqueles pergaminhos ao redor dela. O ar em volta dela tinha menos o cheiro pesado de tinta e mais um perfume leve de lavanda quando passou por mim.
+
+— Boa noite! — cumprimentou-nos brevemente, indo direto para a porta lateral onde os funcionários entraram e saíam.
+
+Diferente dos grandes banquetes oficiais, aquele era um jantar "semi" oficial. A mesa era a mesma em que tomávamos café da manhã com nossos pais, quando ambos estavam no castelo. Mas o banquete era surpreendente, tanto pela despedida de nossos pais quanto pelas três convidadas de meus irmãos. Havia uma intenção cuidadosa em cada detalhe, como se alguém tivesse decorado o salão exatamente para tornar aquela noite memorável.
+
+Toalhas brancas cobriam a madeira escura. Castiçais de prata refletiam a luz dourada das centenas de velas espalhadas pelo salão, enquanto arranjos de rosas vermelhas percorriam discretamente o centro da mesa sem impedir que todos se enxergassem. As pétalas quase pareciam brilhar sob a chama trêmula.
+
+O cheiro de pão recém-saído do forno misturava-se ao aroma de ervas frescas e carne assada que começava a popular a mesa. Havia também um toque sutil de canela e maçã, que lembrava sobremesas cuidadosas e tardes de outono.
+
+Aos poucos, meus outros irmãos começaram a chegar. Hazel apareceu com uma vestimenta muito mais simples do que seu uniforme militar, mas mantinha exatamente a mesma postura reta de sempre. Seu andar era calmo e os olhos dela percorriam o salão como se não quisesse perder nenhum detalhe.
+
+— Boa noite.
+
+— Boa noite. — respondemos quase ao mesmo tempo.
+
+Depois veio Harry discutindo baixo com sua noiva. Ele vestia uma jaqueta sem mangas de couro marrom por cima de uma regata branca e uma calça preta discreta para os seus padrões. Sua presença preenchia o espaço entre a porta e a mesa com a mesma energia barulhenta de sempre.
+
+— Eu ainda acho acertei aquele golpe primeiro.
+
+Uma caminhava ao seu lado sem parecer surpresa pelas palavras do Almirante. Havia uma confiança natural na forma como ela se mantinha ereta, como uma capitã pronta para responder a qualquer provocação.
+
+A filha de Úrsula usava um vestido pirata em tom turquesa vibrante, com longas tranças no mesmo tom e uma jaqueta na mesma palheta. Sua postura transmitia a mesma confiança firme que eu imaginava existir em qualquer capitã de navio. O vestido dançava com a brisa que entrava pelo salão e o perfume de maresia acompanhava cada passo.
+
+— Você acertou depois, Harry.
+
+— Não.
+
+— Sim.
+
+— O juiz concordaria comigo.
+
+— Não havia juiz.
+
+— Porque você me impediu de chamar um.
+
+Uma soltou uma curta risada.
+
+— Você continua inventando regras depois do duelo.
+
+Harry abriu um sorriso convencido.
+
+— Chama-se estratégia.
+
+Ela cruzou os braços e parou no meio do caminho, fazendo-o quase bater sobre seu corpo. Seus olhos refletiam tanto a luz quanto a intenção de não ceder um centímetro.
+
+— Chama-se perder e não aceitar.
+
+Os dois perceberam nossa presença quase ao mesmo tempo. Harry pigarreou discretamente, tentando esconder o quanto o nervosismo do momento havia disparado seu coração.
+
+— Boa noite.
+
+— Boa noite. — respondeu Hazel, sem esconder um sorriso divertido.
+
+Meu pai entrou não muito depois. Seus olhos percorriam todo o salão, observando cada um dos presentes, até pararem sobre Uma. Ela imediatamente deu um passo à frente, sua postura brincalhona desaparecendo. Havia respeito no ar, misturado com aquele tipo de curiosidade que costuma acompanhar visitas importantes.
+
+— Majestade. — Uma disse, curvando-se brevemente numa reverência respeitosa.
+
+O Grão-Almirante aproximou-se com os braços para trás. Ele parecia menos rígido do que no convés do navio, mas ainda assim mantinha a mesma autoridade tranquila.
+
+Durante os dois anos anteriores, eu ouvira Harry reclamar que os compromissos diplomáticos de um sempre desencontravam os do outro. Sempre que Uma visitava Wonderland, papai estava em Neverland ou em alguma missão. Quando ele retornava, ela já havia partido. E aquela era a primeira vez que finalmente se encontravam.
+
+James a observou durante alguns segundos. Depois abriu um largo sorriso.
+
+— Então você é a jovem que vive derrotando meu filho.
+
+Harry protestou imediatamente.
+
+— Pai!
+
+Uma não conseguiu conter a risada.
+
+— Nem sempre.
+
+— Quase sempre, pelo o que ouço.
+
+Meu pai estendeu a mão direita.
+
+— James Hook.
+
+Ela apertou sua mão com firmeza. O gesto fugia do exagero e tinha a calma de quem já sabia ser respeitada.
+
+— Uma.
+
+— Bem-vinda à família.
+
+Vi Harry relaxar um pouco os ombros, talvez ele estivesse mais nervoso do que admitiria um dia. O alívio dele era quase tangível.
+
+Pouco depois, Red e Chloe entraram juntas. Ou quase juntas. As duas caminhavam lado a lado, com uma distância cuidadosamente calculada, como se ainda estivessem à trabalho para a Guarda. Havia formalidade em cada passo, mas também a familiaridade que só o tempo juntas permitia.
+
+Elas vestiam terninhos formais com suas cores habituais, e uma curta bainha vazia podia ser vista em suas cinturas. As roupas se ajustavam a elas como armaduras leves, lembrando que, mesmo num jantar, parte de suas funções ainda as acompanhava.
+
+— Ainda estou certa.
+
+— Você continua errada.
+
+— Não estou.
+
+— Está.
+
+Mamãe apareceu na porta exatamente naquele instante, atrás das duas. Sua presença mudou o clima. O som de seus passos era firme e a luz parecia seguir sua entrada.
+
+— Vocês duas estão discutindo? — ela perguntou com sua voz firme de rainha.
+
+— Não. — as duas responderam no mesmo segundo.
+
+— Claro que não.
+
+Bridget caminhou para dentro do Grande Salão, diretamente para seu marido. Ela usava um vestido de corte elegante e sua expressão mostrava que ainda havia muitos papéis e conversas em sua mente. CJ entrou correndo com os loiros cabelos balançando ao vento. Ela vestia um sobretudo vinho com colares de concha em cima de sua roupa de aventureira, como se estivesse se atrasado para o jantar, mas também com o hábito de quem não sabia ficar parada.
+
+Em pouco tempo, o clima do salão tornou-se mais leve. Funcionários aproximaram-se para puxar discretamente as cadeiras. E todos nos acomodamos em nossos lugares.
+
+Oliver, um dos mordomos, aproximou de mim uma bacia para limpar minhas mãos antes da refeição, já que conduzir minha cadeira de rodas deixava muita sujeira, mesmo quando eu usava luvas. O ato era cuidadoso e me fez lembrar das exigências de um protocolo que nem sempre era visto pelos outros.
+
+Enquanto todos ocupavam seus lugares, observei cada um de meus irmãos antes de parar o olhar em meus pais. A mesa parecia um pequeno mundo onde cada rosto representava um papel diferente: herdeiros, guardiões, diplomatas, aliados. O brilho das velas refletia nos olhos de cada um de nós, e por um momento senti a sala inteira suspensa num compasso delicado.
+
+Aquele poderia ser só mais um jantar normal, se não soubesse o quanto tudo estava prestes a mudar nas semanas seguintes.
+
+Quando a última gota de vinho foi servida e os primeiros pratos começaram a chegar, eu sentia como se nada pudesse atrapalhar a noite.
+
+Mas eu estava errada.
+
+A porta lateral do Grande Salão foi ligeiramente aberta e todos nós levantamos o olhar quase ao mesmo tempo. Um mensageiro da corte entrou, segurando um pedaço de papel que não consegui ler pela distância.
+
+Ele disse algo no ouvido da Rainha que concordou antes que ele saísse. Todos ficamos olhando para mamãe, esperando ela compartilhar a informação. Mas não veio. Ela simplesmente continuou a beber seu vinho na taça de cristal.
+
+Eu não sabia o que aquele comunicado significava, mas esperava que não fosse nada tão ruim que não pudesse esperar pelo retorno de minha mãe para ser resolvido.
+
+O silêncio ainda permanecia, apesar da tensão clara em quase todos os ombros. Algo me dizia que aquele recado inesperado ia voltar a ser pauta muito em breve.
