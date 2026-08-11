@@ -1680,9 +1680,7 @@ Os capítulos ainda não exploraram profundamente essa relação, mas ela já in
 
 #### Companheiro
 
-Red possui um jovem Gato de Cheshire.
-
-O nome definitivo ainda não foi confirmado na narrativa.
+Red possui um jovem Gato de Cheshire, chamado Grin.
 
 ---
 
@@ -1895,7 +1893,7 @@ Esses animais apresentam inteligência muito acima do comum e frequentemente par
 | Harriet    | Coruja mensageira (nome não revelado)        |
 | Harry      | Pequeno polvo mágico (nome não revelado)     |
 | Hazel      | Ouriço encantado (nome não revelado)         |
-| Red        | Jovem Gato de Cheshire (nome não revelado)   |
+| Red        | Grin, um jovem Gato de Cheshire              |
 | Pink       | Filhote do Coelho Branco (nome não revelado) |
 
 Até o capítulo 12, CJ ainda não teve um companheiro mágico apresentado.

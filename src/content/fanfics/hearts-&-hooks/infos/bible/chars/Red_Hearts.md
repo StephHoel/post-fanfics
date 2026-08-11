@@ -166,8 +166,11 @@ Chefe da Guarda Real.
 
 ## Animal de Companhia
 
+- Nome: Grin.
 - Espécie: Jovem Gato de Cheshire.
-- Nome: INDEFINIDO.
+- Ele escolheu Red porque ela foi a única que respondeu à sua linguagem mental.
+- Red tem o costume de expulsar Grin do castelo para ter alguma paz por alguns dias e o gato tem o costume de prolongar deliberadamente a própria expulsão só para fazer Red ficar preocupada com ele.
+- Grin é como um irmão inconveniente que descobriu uma maneira muito eficiente de atormentar Red.
 
 ---
 

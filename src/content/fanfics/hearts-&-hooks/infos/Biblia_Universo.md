@@ -128,7 +128,7 @@ Linha de sucessão registrada em `05_Governo.md`: Harriet, Harry, Hazel, Red, Bl
 - 19 anos
 - Gêmea de Black
 - Princesa, Chefe da Guarda Real e Membro do Pequeno Conselho da Rainha
-- Possui um gato de Cheshire jovem, **sem nome definido** talvez Chessy
+- Possui um gato de Cheshire jovem, chamado Grin
 - Determinada e protetora
 - Acompanha a alimentação e a saúde de Black
 - Foi designada para escoltar pessoalmente todas as saídas externas do remapeamento

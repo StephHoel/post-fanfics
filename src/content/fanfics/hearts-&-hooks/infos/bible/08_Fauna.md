@@ -70,9 +70,9 @@ Características conhecidas:
 
 ### Red Hearts
 
-Jovem Gato de Cheshire.
+Grin
 
-Ainda sem nome.
+Espécie: Jovem Gato de Cheshire.
 
 ### Harriet Hook
 
