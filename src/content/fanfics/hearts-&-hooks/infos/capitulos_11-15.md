@@ -933,3 +933,153 @@ Aqueles documentos deixariam de ser apenas instrumentos de trabalho. Em poucos d
 Mapas produzidos por mim fariam parte de uma discussão capaz de afetar muito mais do que Wonderland.
 
 Sem perceber, encontrei-me imaginando como seria finalmente conhecer as pessoas que, até então, existiam apenas em relatórios diplomáticos, livros de geografia e correspondências oficiais. E desde que a cúpula fora anunciada, a reunião deixava de parecer um evento distante para, lentamente, a se tornar real.
+
+--
+
+## Capítulo 15 - Quando o Mundo Bate à Porta
+
+Eu já estava acordada havia algum tempo quando Red entrou no meu quarto.
+
+Não porque tivesse dormido mal, embora aquela fosse uma explicação bastante plausível para a maneira como meu coração parecia ter decidido trabalhar naquela manhã. Eu simplesmente havia perdido a capacidade de continuar dormindo. Desde que abri os olhos naquela manhã, permaneci deitada e imóvel sob os lençóis, observando a faixa de luz que timidamente começava a atravessar a cortina de meu quarto enquanto ouvia o castelo acordando do outro lado da porta.
+
+Haviam passos e vozes demais. Portas se abrindo e fechando, rodas de carrinhos passando pelos corredores, funcionários carregando bandejas, malas e caixas, pequenos chamados atravessando as paredes. De vez em quando, alguma risada mais alta ou o som metálico fazia meu corpo inteiro ficar alerta. Não era exatamente o barulho, o castelo nunca ficava completamente em silêncio, aquilo era diferente. Eu sabia que cada movimento significava que alguém estava chegando.
+
+O mundo estava vindo até Wonderland. E eu teria que sentar à mesa com ele.
+
+— Você está acordada. — Red constatou assim que abriu a porta.
+
+Ela entrou acompanhada pelas minhas duas damas de companhia, que traziam consigo as roupas do dia e os itens necessários para minha rotina matinal. Red fechou a porta atrás delas com o pé e ficou me encarando por alguns segundos, como se esperasse encontrar alguma diferença entre aquela versão de mim e a que tinha ido dormir na noite anterior.
+
+— Tecnicamente, sim.
+
+— Tecnicamente?
+
+— Estar acordada é diferente de estar funcionando.
+
+Ela soltou um suspiro, aproximando-se da cama. Red estava vestida em seu melhor uniforme da Guarda Real, o que me dizia o tamanho do que estava para acontecer antes mesmo dela falar qualquer coisa.
+
+— Eu sei. Mas você está aí.
+
+Eu olhei nos olhos da minha gêmea antes de responder e considerei seriamente em jogar um travesseiro nela.
+
+— O que isso significa exatamente?
+
+— Que você está nervosa. Por isso ainda não se levantou.
+
+— Não estou nervosa, só estou...
+
+Red ergueu uma sobrancelha.
+
+— Black. Você está fugindo do café da manhã?
+
+— Não... Eu não disse isso!
+
+— Eu sou sua gêmea, eu sei quando você quer falar algo antes mesmo de pensar.
+
+— Você está pensando isso porque você está fugindo também!
+
+Me sentei na cama, olhando-a diretamente. O sorriso de Red denunciou que eu estava certa.
+
+— Eu não estou fugindo, estou apenas... adiando o inevitável. E garantindo que a cartógrafa de Wonderland esteja pronta na hora certa.
+
+— Você é a chefe da Guarda Real!
+
+— E como a chefe da Guarda Real, preciso garantir que todos estejam prontos. E a segurança foi delegada aos soldados-cartas.
+
+Red sorriu, mas antes que pudesse continuar com sua explicação, Eleanor se aproximou.
+
+— Bom dia, Alteza. Seu banho está quase pronto e precisamos começar os exercícios se não quiser se atrasar.
+
+Me deitei novamente na cama, deixando que Eleanor começasse. Primeiro ela afastou as cortinas para deixar a luz entrar de verdade, depois preparou o material dos exercícios. O quarto pareceu maior quando a claridade ocupou os cantos, revelando os tons vermelhos e dourados da minha decoração, as paredes repletas de pequenos mapas e os instrumentos de cartografia cuidadosamente organizados sobre a escrivaninha próxima à janela que eu não usava havia algum tempo.
+
+Eu gostaria de ter permanecido ali. No meu quarto. Cercada pelos mapas que conhecia, pelos objetos cujas posições eu sabia de memória. Dentro de uma rotina que não exigia qualquer explicação para ninguém. Mas aquela não era uma manhã comum, e nada seria comum enquanto a Cúpula das Nações Mágicas estivesse acontecendo em Wonderland.
+
+Começamos os exercícios com Red observando tudo ao lado de Ink, que ainda dormia tranquilamente em seu próprio travesseiro. Os exercícios consistiam em movimentos lentos, controlados e repetidos até que meus músculos respondessem com menos rigidez. Minha respiração precisava acompanhar o ritmo e eu me concentrei nela porque era mais fácil pensar em inspirar e expirar do que na quantidade de pessoas que provavelmente já haviam atravessado os portões do castelo.
+
+Depois veio o banho, as pomadas e as massagens. O calor da água ajudou mais do que eu gostaria de admitir. Por alguns minutos, enquanto o vapor envolvia o banheiro e o cheiro familiar das ervas se misturava ao sabonete, consegui esquecer que haviam treze delegações hospedadas naquele castelo. Além da família real de Wonderland, claro.
+
+Quando voltei ao quarto, Maeve estava com as roupas oficiais preparadas. Uma calça escura, uma camisa clara e um blazer impecavelmente alinhados, com os símbolos de Wonderland discretamente bordados. Nenhuma peça era excessivamente ornamentada. A intenção era parecer uma representante oficial do reino, não uma garota de dezenove anos que precisava de ajuda para executar a própria rotina matinal.
+
+Enquanto Maeve e Eleanor ajustavam a roupa em meu corpo, Red foi até a cômoda onde as roupas de Ink ficavam para escolher algo para ele também. Afinal, como meu companheiro, ele também precisava estar vestido à altura.
+
+O cabelo foi o que demorou mais. Como ele era bem longo e naturalmente cacheado, exigia paciência para que os fios negros não se rebelassem no meio do dia. Quando a trança estava finalmente finalizada, me permiti alguns instantes de admiração no espelho e tive a impressão de que estava vendo outra pessoa. Alguém que parecia muito mais preparada do que eu me sentia.
+
+Red se aproximou de mim, me observando pelo reflexo. A imagem de nós duas, lado a lado, me trouxe certa segurança que eu não sabia que precisava.
+
+— Você está incrível, senhora cartógrafa. — ele brincou, com um sorriso que eu pouco via no dia a dia. — Agora vamos, já estamos oficialmente atrasadas. Posso empurrar?
+
+Confirmei com a cabeça e posicionei meus braços para dentro da cadeira. Passando pela cama, Ink pulou para meu colo com uma maestria de quem fazia sempre aquilo e se acomodou sobre as minhas pernas.
+
+— Bom dia, Ink. — falei para ele, mas logo me virei para Red. — Ei, tem tempo que não vejo Grin. Você não expulsou ele do castelo de novo não, né?
+
+— Aquele gato estava me deixando louca enquanto eu organizava as patrulhas, é claro que eu o expulsei. — minha irmã respondeu, mas não pude ver suas expressões.
+
+Ink guinchou no meu colo, quase como uma risada.
+
+— Eu também acho, Ink. Grin vai voltar logo logo com toda essa confusão da Cúpula.
+
+— Ele não tem juízo, é claro que vai aparecer.
+
+O caminho até o Grande Salão não teve mais conversas, mas não foi nem um pouco silencioso. Haviam funcionários e delegações andando de um lado para o outro. Vários dos visitantes olhavam para mim no caminho e eu fingia que não percebia.
+
+Eu podia saber desenhar fronteiras, interpretar mapas, analisar alterações territoriais e reconhecer padrões que poucas pessoas também reconheceriam. Mas eles só viam uma garota na cadeira de rodas.
+
+Quando chegamos às portas do Grande Salão, segurei as rodas da minha cadeira, obrigando a nossa parada repentina. Red resmungou de surpresa, mas se recuperou em segundos e esperou até que eu concordasse em entrar.
+
+Da porta eu conseguia ver as longas mesas preparadas para o café da manhã, com lugares extras para os representantes dos reinos. A partir daquele dia, não seria apenas minha família que se alimentaria ali. E perceber aquilo me deu mais nervosismo do que eu pensei ser possível.
+
+— Vamos entrar. — falei, começando a empurrar minha própria cadeira para dentro.
+
+Red veio atrás, depois de cumprimentar algumas pessoas que se aproximavam.
+
+O salão estava cheio. Minhas irmãs e meu irmão já estavam lá nos esperando. Não vi minha mãe ali, ela devia chegar depois.
+
+Fui até meu lugar de sempre, sem me aproximar demais da mesa. James não estava ali, meu pai continuou seu cronograma de viagem sem fazer parte da Cúpula de forma alguma. Mas não era exatamente uma surpresa, ele nunca se infiltrava nos assuntos do Reino sem motivo.
+
+Apesar de a ordem da Rainha ser clara, era estranho nos reunirmos no Grande Salão sem nosso Grão-Almirante presente. Parecia incompleto. Mas todos os membros da família real e todos os representantes da Cúpula deveriam tomar o café da manhã juntos. Obrigatoriamente. Sem escapatória.
+
+Olhando em volta, vi Harriet conversando com uma mulher de cabelos castanhos claros com a estrela de Corona bordada em seu vestido. Pelo o que tinha lido sobre os representantes, aquela era Aurelia, a primeira filha de Rapunzel, a quem havia saído à sua semelhança.
+
+Quando parecia não ter mais espaço ali dentro, vi de relance uma figura vermelha na porta. Minha mãe.
+
+A Rainha de Copas estava impecável, como sempre. Sua roupa vermelha fazia parecer que o castelo havia sido construído ao redor dela. O seu olhar percorreu o salão com atenção, calculando posições, rostos e movimentos antes de pousar em mim.
+
+— Black.
+
+Apenas meu nome. Ainda assim, foi suficiente para que eu respirasse com um pouco mais de facilidade.
+
+— Harriet.
+
+Vi Harriet olhar para nossa mãe e fazer um aceno com a cabeça. Ela estava, momentos antes, sorrindo no meio de uma conversa com a herdeira de Corona. Estavam tão próximas que mais um centímetro e a distância diplomática teria sumido.
+
+Enquanto minha mãe cumprimentava os representantes, observei-os à distância. Eu já conhecia os nomes de todos ali, apesar de não tê-los conhecido pessoalmente ainda, mas vê-los no Grande Salão do Castelo de Copas era diferente. Até aquele momento, eram apenas nomes associados a reinos, tratados e mapas; agora tinham rostos, vozes e maneiras próprias de ocupar o espaço.
+
+Os primeiros a receber as boas-vindas de minha mãe foram os representantes de Auradon: a Rainha Mal, o Rei Ben e a Fada Madrinha. Os três estavam juntos, e Mal parecia particularmente à vontade diante da recepção, trocando algumas palavras com minha mãe enquanto Ben mantinha aquela postura educada que eu já esperava de alguém acostumado a representar seu reino.
+
+Logo depois, foi a vez de Peter Pan e Wendy, representantes da Terra do Nunca. Peter parecia incapaz de permanecer completamente imóvel, mesmo durante um cumprimento formal, enquanto Wendy compensava a inquietação dele com uma tranquilidade que me fez sorrir.
+
+Na sequência, reconheci um casal que, apesar de representar oficialmente Cinderellasburg, eu quase não conseguia enxergar como estrangeiros. Cinderela e Charming eram próximos demais da minha família para que eu os colocasse na mesma categoria dos demais visitantes. Havia uma familiaridade em seus cumprimentos, nos sorrisos que trocaram com minha mãe e na maneira como se aproximaram de nós que tornava a presença deles quase reconfortante em meio àquela quantidade absurda de rostos novos.
+
+A chegada de Jasmine e Aladin trouxe outro ritmo àquela sucessão de cumprimentos. Os dois conversavam em voz baixa enquanto atravessavam o salão, mas interromperam a conversa assim que chegaram diante da Rainha. Pouco depois deles, vieram os representantes de Camelot, Arthur e Merlin. Eu conhecia ambos pelas histórias e pelos registros oficiais, embora fosse impossível não reparar que Merlin parecia muito mais interessado em observar o salão inteiro do que na cerimônia de recepção.
+
+A delegação de Arendelle veio em seguida, com a Rainha Anna acompanhada por uma de suas conselheiras. Anna tinha uma energia difícil de ignorar, mesmo em um ambiente tão formal, e seu entusiasmo contrastava com a postura mais reservada da mulher que a acompanhava. Depois delas, Seaside entrou representado por Melodie e dois conselheiros, que permaneceram próximos uns dos outros enquanto minha mãe os recebia.
+
+Quando Corona chegou, minha atenção se desviou imediatamente para Aurelia.
+
+A filha mais velha de Corona vinha ao lado de Rapunzel, mas não demorou muito para que se aproximasse de Harriet. As duas já conversavam com uma facilidade que me pareceu curiosa, embora ainda mantivessem aquele cuidado típico de quem sabe que está sendo observado em um encontro diplomático. Harriet sorria de alguma coisa que Aurelia havia dito, e Aurelia parecia igualmente confortável ao lado dela. Eu conhecia minha irmã o bastante para saber que aquela proximidade provavelmente não estaria restrita àquela manhã.
+
+Depois de Corona, chegaram os representantes do Monte Olimpo: Hércules, Megara e Hermes. Hércules chamou atenção quase imediatamente pela presença física, enquanto Megara parecia muito mais interessada em observar o ambiente ao redor. Hermes, por outro lado, tinha uma energia que parecia combinar perigosamente bem com a quantidade de pessoas circulando pelo salão.
+
+A delegação de Eden veio logo depois, formada pelo Principe Herdeiro Seraphiel, pela Princesa Edena e pela conselheira Miriam. Os três avançaram juntos até minha mãe, e eu me peguei tentando memorizar os rostos enquanto eles eram apresentados, embora soubesse que provavelmente precisaria consultar as anotações depois.
+
+Sherwood veio em seguida, representado por Robin Hood e Marian. Os dois tinham uma postura mais discreta, mas havia entre eles uma sintonia que chamava atenção, principalmente porque nenhum dos dois parecia precisar de muitas palavras para se entender.
+
+Então chegaram os representantes de Notre Dame: Esmeralda, Quasimodo e Madame Colette, a conselheira. Esmeralda foi a primeira que realmente desviou minha atenção, não apenas por sua presença marcante, mas pela maneira como observava o salão, como se também estivesse tentando compreender aquele encontro antes mesmo de ele começar. Quasimodo permaneceu próximo dela, enquanto Madame Colette mantinha a postura cuidadosa de quem estava ali para garantir que a delegação não perdesse nenhum detalhe.
+
+Por último, Bayou d'Orleans. O Rei Naveen vinha acompanhado por um de seus conselheiros, e os dois foram cumprimentados por minha mãe com a mesma diplomacia dos demais reinos, mostrando que o término das primogênitas não influenciava a relação entre reinos.
+
+Foi somente então que percebi a dimensão real daquela reunião.
+
+Eu conhecia cada um daqueles reinos pelos mapas, pelos relatórios e pelas informações que haviam chegado a Wonderland nas últimas semanas. Ainda assim, nenhum documento tinha conseguido me preparar para vê-los todos reunidos no mesmo lugar. O Grande Salão, que normalmente parecia grande demais para uma única família, agora parecia pequeno demais para conter tantas coroas, conselheiros, herdeiros, histórias e interesses diferentes.
+
+E eu teria de encontrar meu lugar no meio de todos eles.
