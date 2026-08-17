@@ -223,6 +223,25 @@ Independentemente da causa, o fenômeno elevou a cartografia mágica de uma disc
 
 ---
 
+## Representantes dos Reinos
+
+* Wonderland: Rainha de Copas, Harriet e Black
+* Auradon: Fada Madrinha, Mal e Ben
+* Neverland: Peter Pan e Wendy
+* Cinderellasburg: Cinderela e Charming
+* Agrabah: Jasmine e Aladdin
+* Camelot: Arthur e Merlin
+* Arendelle: Anna e uma conselheira ainda não nomeada
+* Seaside: Melodie, conselheiro Edmund e um conselheiro ainda não nomeado
+* Corona: Aurelia e Rapunzel
+* Monte Olimpo: Hércules, Megara e Hermes
+* Eden: Seraphiel, Edena e Miriam
+* Sherwood: Robin Hood e Marian
+* Notre Dame: Esmeralda, Quasimodo e Madame Colette
+* Bayou d'Orleans: Naveen e um conselheiro ainda não nomeado
+
+---
+
 ## Consequências Narrativas
 
 A criação da Comissão Permanente de Cartografia e Fenômenos Arcanos estabelece um novo eixo político e científico para o mundo, justificando a presença de especialistas, pesquisadores e representantes de diversos reinos em Wonderland. Ao mesmo tempo, transforma Black em uma figura central para a cooperação internacional, pois seu conhecimento passa a ser indispensável para compreender um fenômeno que ameaça afetar todos os reinos igualmente. O mistério dos mapas divergentes deixa de ser um incidente local e torna-se o fio condutor de longo prazo da série, conectando diplomacia, ciência, magia e exploração sem depender de um antagonista tradicional.
